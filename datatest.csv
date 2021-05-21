@@ -1,0 +1,991 @@
+id_pasien,jenis_kelamin,umur,hipertensi,penyakit_jantung,sudah_menikah,jenis_pekerjaan,jenis_tempat_tinggal,rata2_level_glukosa,bmi,merokok
+2000,Laki-laki,24,tidak,tidak,belum,belum bekerja,Perkotaan,83.45,25.3,tidak
+2001,Perempuan,81,tidak,tidak,sudah,swasta,Perkotaan,127.35,35.6,mantan perokok
+2002,Laki-laki,41,tidak,tidak,sudah,PNS,Pedesaan,65.0,21.0,perokok aktif
+2003,Laki-laki,30,tidak,tidak,sudah,Wirausaha,Perkotaan,88.3,32.0,tidak
+2004,Laki-laki,50,ya,tidak,sudah,Wirausaha,Perkotaan,63.15,25.1,tidak
+2005,Perempuan,50,tidak,tidak,sudah,Wirausaha,Pedesaan,101.7,24.9,mantan perokok
+2006,Laki-laki,43,tidak,tidak,sudah,swasta,Pedesaan,98.9,38.7,mantan perokok
+2007,Laki-laki,74,tidak,tidak,sudah,swasta,Pedesaan,203.29,26.5,tidak
+2008,Perempuan,78,tidak,tidak,sudah,PNS,Perkotaan,202.12,30.9,tidak
+2009,Laki-laki,68,tidak,tidak,sudah,swasta,Perkotaan,246.66,32.3,perokok aktif
+2010,Laki-laki,41,tidak,tidak,sudah,swasta,Pedesaan,56.3,31.4,mantan perokok
+2011,Laki-laki,52,ya,ya,belum,PNS,Pedesaan,217.73,42.9,tidak
+2012,Perempuan,73,tidak,tidak,sudah,PNS,Pedesaan,55.74,28.1,tidak
+2013,Perempuan,78,tidak,tidak,sudah,swasta,Pedesaan,209.05,35.7,tidak
+2014,Laki-laki,30,tidak,tidak,sudah,PNS,Perkotaan,95.37,23.2,tidak
+2015,Laki-laki,23,tidak,ya,belum,Wirausaha,Pedesaan,91.58,24.9,mantan perokok
+2016,Perempuan,31,tidak,tidak,sudah,swasta,Perkotaan,71.93,24.9,mantan perokok
+2017,Perempuan,45,tidak,tidak,belum,swasta,Perkotaan,82.71,25.4,tidak
+2018,Laki-laki,78,tidak,tidak,sudah,PNS,Pedesaan,84.25,24.6,tidak
+2019,Laki-laki,28,tidak,tidak,belum,swasta,Perkotaan,74.52,26.8,tidak
+2020,Perempuan,82,tidak,tidak,sudah,PNS,Perkotaan,96.58,25.1,tidak
+2021,Perempuan,21,tidak,tidak,sudah,PNS,Pedesaan,91.56,22.9,tidak
+2022,Perempuan,52,tidak,tidak,sudah,swasta,Pedesaan,124.27,22.2,mantan perokok
+2023,Laki-laki,29,tidak,tidak,sudah,Wirausaha,Perkotaan,108.69,29.6,tidak
+2024,Laki-laki,71,tidak,tidak,sudah,Wirausaha,Perkotaan,241.77,30.2,tidak
+2025,Perempuan,76,tidak,tidak,sudah,Wirausaha,Perkotaan,102.06,27.3,perokok aktif
+2026,Perempuan,80,ya,tidak,sudah,Wirausaha,Perkotaan,105.92,32.5,tidak
+2027,Perempuan,82,tidak,tidak,sudah,swasta,Pedesaan,215.94,27.9,tidak
+2028,Laki-laki,25,tidak,tidak,sudah,swasta,Pedesaan,89.69,42.7,tidak
+2029,Laki-laki,50,tidak,ya,sudah,swasta,Pedesaan,79.71,26.7,mantan perokok
+2030,Perempuan,78,tidak,tidak,sudah,swasta,Pedesaan,101.19,40.4,tidak
+2031,Perempuan,71,tidak,tidak,sudah,Wirausaha,Pedesaan,89.1,26.4,mantan perokok
+2032,Perempuan,39,ya,tidak,sudah,Wirausaha,Pedesaan,83.24,26.3,tidak
+2033,Laki-laki,46,tidak,tidak,sudah,swasta,Perkotaan,123.28,27.5,tidak
+2034,Perempuan,58,tidak,ya,sudah,Wirausaha,Pedesaan,76.68,34.7,tidak
+2035,Perempuan,82,ya,tidak,sudah,swasta,Perkotaan,85.37,24.2,mantan perokok
+2036,Perempuan,69,tidak,tidak,belum,PNS,Pedesaan,193.06,30.6,tidak
+2037,Laki-laki,42,tidak,tidak,sudah,PNS,Perkotaan,76.19,31.7,perokok aktif
+2038,Perempuan,60,tidak,tidak,sudah,swasta,Perkotaan,117.1,33.6,tidak
+2039,Laki-laki,52,ya,tidak,sudah,swasta,Pedesaan,88.78,48.8,mantan perokok
+2040,Perempuan,60,tidak,tidak,sudah,swasta,Pedesaan,55.52,35.8,tidak
+2041,Laki-laki,40,tidak,tidak,belum,swasta,Perkotaan,130.59,30.6,tidak
+2042,Laki-laki,51,ya,ya,sudah,swasta,Perkotaan,57.7,28.6,mantan perokok
+2043,Perempuan,24,tidak,tidak,sudah,swasta,Perkotaan,86.08,30.4,tidak
+2044,Perempuan,76,ya,tidak,sudah,Wirausaha,Pedesaan,117.59,23.1,perokok aktif
+2045,Laki-laki,50,tidak,tidak,sudah,Wirausaha,Pedesaan,118.99,37.2,tidak
+2046,Perempuan,68,ya,tidak,sudah,PNS,Perkotaan,135.12,25.6,perokok aktif
+2047,Perempuan,58,tidak,tidak,belum,Wirausaha,Perkotaan,70.94,31.3,perokok aktif
+2048,Perempuan,39,tidak,tidak,sudah,swasta,Pedesaan,88.44,44.9,tidak
+2049,Perempuan,68,tidak,tidak,sudah,Wirausaha,Perkotaan,193.16,38.7,perokok aktif
+2050,Laki-laki,28,tidak,tidak,belum,PNS,Perkotaan,125.12,24.5,perokok aktif
+2051,Perempuan,64,ya,tidak,sudah,swasta,Perkotaan,176.07,44.3,tidak
+2052,Laki-laki,56,tidak,tidak,sudah,Wirausaha,Perkotaan,99.6,30.1,tidak
+2053,Laki-laki,67,tidak,ya,sudah,Wirausaha,Pedesaan,88.79,27.4,tidak
+2054,Perempuan,40,tidak,tidak,sudah,Wirausaha,Pedesaan,116.58,29.3,mantan perokok
+2055,Laki-laki,31,tidak,tidak,sudah,PNS,Perkotaan,90.56,26.0,tidak
+2056,Perempuan,60,tidak,tidak,sudah,swasta,Pedesaan,62.39,28.5,tidak
+2057,Perempuan,44,tidak,tidak,sudah,swasta,Perkotaan,110.72,29.2,mantan perokok
+2058,Laki-laki,78,tidak,tidak,sudah,PNS,Perkotaan,81.83,24.3,mantan perokok
+2059,Laki-laki,21,ya,tidak,sudah,swasta,Pedesaan,104.61,37.5,perokok aktif
+2060,Perempuan,79,ya,tidak,sudah,Wirausaha,Pedesaan,70.36,32.9,perokok aktif
+2061,Perempuan,48,tidak,tidak,sudah,swasta,Perkotaan,121.92,43.3,perokok aktif
+2062,Laki-laki,30,tidak,tidak,sudah,swasta,Pedesaan,97.03,21.2,mantan perokok
+2063,Laki-laki,78,tidak,tidak,sudah,swasta,Perkotaan,83.96,16.3,tidak
+2064,Perempuan,55,tidak,tidak,sudah,swasta,Pedesaan,91.55,52.4,tidak
+2065,Laki-laki,39,tidak,ya,belum,swasta,Pedesaan,131.51,30.5,perokok aktif
+2066,Laki-laki,26,tidak,tidak,sudah,swasta,Pedesaan,93.39,54.1,tidak
+2067,Perempuan,30,tidak,tidak,sudah,PNS,Perkotaan,95.64,27.7,mantan perokok
+2068,Perempuan,64,tidak,tidak,sudah,PNS,Pedesaan,244.34,28.6,tidak
+2069,Laki-laki,78,tidak,tidak,sudah,swasta,Pedesaan,80.07,20.1,perokok aktif
+2070,Perempuan,79,tidak,tidak,sudah,swasta,Pedesaan,212.2,29.5,tidak
+2071,Perempuan,62,ya,tidak,sudah,Wirausaha,Pedesaan,114.59,30.9,tidak
+2072,Perempuan,47,tidak,tidak,sudah,Wirausaha,Pedesaan,111.8,23.1,tidak
+2073,Laki-laki,32,ya,tidak,sudah,swasta,Pedesaan,139.27,22.7,tidak
+2074,Perempuan,59,ya,tidak,sudah,swasta,Pedesaan,116.44,23.8,tidak
+2075,Perempuan,66,tidak,ya,belum,PNS,Perkotaan,139.01,36.6,tidak
+2076,Laki-laki,21,ya,tidak,sudah,Wirausaha,Pedesaan,65.34,27.2,mantan perokok
+2077,Laki-laki,79,tidak,tidak,sudah,swasta,Pedesaan,78.28,33.8,mantan perokok
+2078,Laki-laki,32,tidak,tidak,sudah,swasta,Pedesaan,64.24,27.1,perokok aktif
+2079,Perempuan,40,tidak,tidak,sudah,swasta,Pedesaan,93.78,28.1,perokok aktif
+2080,Laki-laki,19,tidak,tidak,belum,swasta,Pedesaan,75.9,22.2,mantan perokok
+2081,Laki-laki,67,tidak,tidak,sudah,swasta,Perkotaan,181.17,59.7,perokok aktif
+2082,Laki-laki,12,tidak,tidak,sudah,PNS,Pedesaan,72.94,24.5,tidak
+2083,Perempuan,14,tidak,ya,sudah,swasta,Perkotaan,101.47,25.3,perokok aktif
+2084,Perempuan,48,ya,tidak,sudah,Wirausaha,Pedesaan,57.19,43.1,mantan perokok
+2085,Laki-laki,32,tidak,ya,sudah,swasta,Perkotaan,88.66,22.9,mantan perokok
+2086,Laki-laki,51,tidak,tidak,sudah,Wirausaha,Perkotaan,87.02,34.6,mantan perokok
+2087,Laki-laki,53,tidak,tidak,belum,swasta,Perkotaan,119.68,27.4,tidak
+2088,Perempuan,39,tidak,tidak,sudah,Wirausaha,Pedesaan,57.01,22.5,tidak
+2089,Laki-laki,75,ya,ya,sudah,swasta,Perkotaan,233.88,28.5,tidak
+2090,Laki-laki,65,tidak,tidak,sudah,swasta,Perkotaan,210.23,33.8,tidak
+2091,Perempuan,26,tidak,tidak,sudah,swasta,Pedesaan,91.35,27.7,tidak
+2092,Perempuan,60,tidak,tidak,sudah,PNS,Pedesaan,66.6,37.8,tidak
+2093,Perempuan,25,ya,tidak,belum,swasta,Perkotaan,62.03,22.7,tidak
+2094,Perempuan,69,ya,tidak,sudah,swasta,Pedesaan,83.7,31.9,mantan perokok
+2095,Perempuan,31,ya,tidak,sudah,swasta,Pedesaan,59.26,34.8,mantan perokok
+2096,Laki-laki,68,tidak,tidak,belum,belum bekerja,Perkotaan,79.73,23.2,tidak
+2097,Laki-laki,24,tidak,tidak,belum,belum bekerja,Pedesaan,164.1,23.8,tidak
+2098,Perempuan,11,tidak,tidak,sudah,swasta,Perkotaan,101.16,15.7,perokok aktif
+2099,Laki-laki,70,tidak,tidak,sudah,swasta,Pedesaan,109.41,29.3,tidak
+2100,Laki-laki,78,tidak,tidak,sudah,swasta,Pedesaan,55.45,20.3,perokok aktif
+2101,Laki-laki,12,tidak,tidak,belum,swasta,Perkotaan,83.64,26.9,tidak
+2102,Laki-laki,57,tidak,tidak,sudah,swasta,Perkotaan,100.19,24.9,tidak
+2103,Perempuan,49,tidak,tidak,sudah,swasta,Perkotaan,68.85,26.0,tidak
+2104,Perempuan,31,tidak,ya,sudah,swasta,Pedesaan,74.03,28.9,tidak
+2105,Perempuan,49,ya,tidak,sudah,PNS,Perkotaan,87.08,24.7,tidak
+2106,Laki-laki,64,tidak,tidak,belum,swasta,Pedesaan,108.58,37.2,perokok aktif
+2107,Laki-laki,41,tidak,tidak,belum,swasta,Perkotaan,96.9,37.5,mantan perokok
+2108,Perempuan,65,tidak,tidak,sudah,swasta,Perkotaan,243.86,24.9,perokok aktif
+2109,Perempuan,20,tidak,tidak,belum,swasta,Pedesaan,123.42,25.5,mantan perokok
+2110,Perempuan,22,ya,tidak,sudah,Wirausaha,Perkotaan,104.01,22.7,mantan perokok
+2111,Laki-laki,48,ya,ya,sudah,swasta,Perkotaan,59.56,37.1,mantan perokok
+2112,Perempuan,58,ya,tidak,sudah,swasta,Pedesaan,85.19,26.7,tidak
+2113,Laki-laki,10,tidak,tidak,belum,swasta,Pedesaan,103.6,21.8,perokok aktif
+2114,Perempuan,54,tidak,tidak,belum,swasta,Perkotaan,96.89,29.1,tidak
+2115,Perempuan,66,tidak,tidak,sudah,swasta,Pedesaan,114.25,28.9,perokok aktif
+2116,Laki-laki,40,tidak,tidak,sudah,swasta,Perkotaan,104.25,27.2,perokok aktif
+2117,Perempuan,38,tidak,tidak,sudah,Wirausaha,Pedesaan,81.26,30.0,tidak
+2118,Perempuan,52,tidak,tidak,sudah,Wirausaha,Pedesaan,79.03,26.4,tidak
+2119,Perempuan,21,tidak,tidak,belum,swasta,Pedesaan,83.75,21.5,tidak
+2120,Laki-laki,57,tidak,tidak,sudah,Wirausaha,Pedesaan,68.28,21.8,mantan perokok
+2121,Perempuan,78,ya,tidak,sudah,swasta,Pedesaan,55.3,30.7,mantan perokok
+2122,Perempuan,82,tidak,tidak,sudah,swasta,Perkotaan,141.38,20.0,tidak
+2123,Perempuan,69,tidak,tidak,sudah,swasta,Perkotaan,200.5,41.2,mantan perokok
+2124,Perempuan,70,tidak,tidak,sudah,swasta,Perkotaan,77.28,25.3,tidak
+2125,Laki-laki,77,tidak,tidak,sudah,swasta,Perkotaan,87.13,24.1,tidak
+2126,Perempuan,15,tidak,tidak,sudah,PNS,Perkotaan,66.06,27.9,tidak
+2127,Perempuan,58,tidak,tidak,sudah,swasta,Pedesaan,99.63,45.3,perokok aktif
+2128,Laki-laki,28,tidak,tidak,sudah,swasta,Perkotaan,75.22,50.5,mantan perokok
+2129,Laki-laki,61,tidak,tidak,belum,swasta,Pedesaan,214.84,29.2,perokok aktif
+2130,Perempuan,27,tidak,ya,sudah,swasta,Pedesaan,100.35,27.3,tidak
+2131,Laki-laki,79,ya,tidak,belum,swasta,Perkotaan,123.24,29.5,tidak
+2132,Perempuan,67,tidak,tidak,sudah,swasta,Perkotaan,60.74,26.6,tidak
+2133,Laki-laki,68,tidak,tidak,sudah,swasta,Perkotaan,207.7,28.3,tidak
+2134,Perempuan,32,tidak,tidak,sudah,swasta,Perkotaan,73.07,28.1,perokok aktif
+2135,Laki-laki,82,tidak,tidak,sudah,PNS,Pedesaan,126.46,14.3,perokok aktif
+2136,Perempuan,12,tidak,tidak,belum,swasta,Pedesaan,109.79,29.9,perokok aktif
+2137,Laki-laki,57,tidak,tidak,belum,belum bekerja,Perkotaan,84.99,27.4,mantan perokok
+2138,Perempuan,47,tidak,tidak,sudah,swasta,Perkotaan,93.05,30.5,tidak
+2139,Perempuan,56,tidak,tidak,sudah,swasta,Pedesaan,78.73,35.0,tidak
+2140,Perempuan,69,tidak,tidak,sudah,Wirausaha,Pedesaan,195.23,28.3,perokok aktif
+2141,Laki-laki,30,tidak,ya,sudah,Wirausaha,Perkotaan,226.79,22.8,mantan perokok
+2142,Perempuan,43,tidak,tidak,sudah,swasta,Perkotaan,58.24,33.7,tidak
+2143,Laki-laki,39,tidak,ya,sudah,swasta,Pedesaan,86.08,27.6,mantan perokok
+2144,Laki-laki,14,tidak,tidak,sudah,swasta,Pedesaan,107.79,20.7,tidak
+2145,Laki-laki,53,tidak,tidak,sudah,swasta,Pedesaan,95.67,36.1,perokok aktif
+2146,Perempuan,60,tidak,tidak,sudah,swasta,Pedesaan,69.73,28.6,tidak
+2147,Laki-laki,59,tidak,tidak,sudah,Wirausaha,Pedesaan,86.23,30.0,tidak
+2148,Laki-laki,66,tidak,tidak,belum,swasta,Perkotaan,87.25,32.2,mantan perokok
+2149,Perempuan,53,ya,tidak,belum,swasta,Perkotaan,100.69,28.9,tidak
+2150,Perempuan,63,tidak,tidak,sudah,Wirausaha,Perkotaan,228.56,27.4,perokok aktif
+2151,Perempuan,80,tidak,tidak,sudah,Wirausaha,Perkotaan,106.72,27.8,tidak
+2152,Laki-laki,58,tidak,tidak,sudah,Wirausaha,Pedesaan,82.76,30.7,perokok aktif
+2153,Laki-laki,34,ya,tidak,sudah,Wirausaha,Pedesaan,78.29,33.2,mantan perokok
+2154,Perempuan,48,tidak,tidak,belum,PNS,Perkotaan,103.18,34.5,tidak
+2155,Perempuan,36,tidak,tidak,sudah,PNS,Perkotaan,84.23,32.8,perokok aktif
+2156,Laki-laki,80,tidak,tidak,belum,Wirausaha,Perkotaan,237.23,27.2,mantan perokok
+2157,Perempuan,26,tidak,tidak,sudah,swasta,Perkotaan,71.2,42.1,tidak
+2158,Perempuan,30,tidak,tidak,sudah,PNS,Perkotaan,109.05,47.2,perokok aktif
+2159,Perempuan,79,tidak,ya,belum,swasta,Perkotaan,86.81,20.5,tidak
+2160,Laki-laki,75,tidak,tidak,sudah,swasta,Perkotaan,105.33,33.3,tidak
+2161,Perempuan,46,ya,tidak,belum,swasta,Pedesaan,100.77,24.8,mantan perokok
+2162,Perempuan,60,tidak,tidak,sudah,swasta,Pedesaan,102.54,26.1,tidak
+2163,Perempuan,76,tidak,tidak,sudah,swasta,Perkotaan,60.61,39.2,tidak
+2164,Perempuan,21,tidak,tidak,sudah,Wirausaha,Perkotaan,59.63,30.7,tidak
+2165,Perempuan,61,tidak,tidak,sudah,Wirausaha,Perkotaan,87.87,37.0,tidak
+2166,Perempuan,23,tidak,tidak,sudah,swasta,Pedesaan,92.45,21.4,perokok aktif
+2167,Perempuan,55,ya,tidak,sudah,Wirausaha,Pedesaan,87.38,33.5,mantan perokok
+2168,Laki-laki,30,tidak,tidak,belum,Wirausaha,Pedesaan,78.06,29.3,mantan perokok
+2169,Perempuan,70,tidak,tidak,sudah,swasta,Perkotaan,117.48,25.5,mantan perokok
+2170,Perempuan,46,tidak,tidak,sudah,PNS,Pedesaan,76.96,22.5,tidak
+2171,Perempuan,44,ya,tidak,sudah,PNS,Perkotaan,66.23,20.9,mantan perokok
+2172,Perempuan,12,ya,ya,sudah,Wirausaha,Perkotaan,72.63,20.7,tidak
+2173,Perempuan,38,tidak,tidak,sudah,swasta,Pedesaan,79.75,32.3,mantan perokok
+2174,Laki-laki,71,tidak,tidak,sudah,Wirausaha,Perkotaan,101.12,17.6,tidak
+2175,Laki-laki,43,tidak,ya,sudah,swasta,Perkotaan,70.41,47.6,mantan perokok
+2176,Perempuan,72,tidak,tidak,sudah,swasta,Pedesaan,236.21,29.4,tidak
+2177,Perempuan,40,tidak,tidak,sudah,swasta,Pedesaan,78.7,36.7,perokok aktif
+2178,Laki-laki,21,tidak,tidak,sudah,swasta,Pedesaan,102.61,24.3,perokok aktif
+2179,Laki-laki,27,tidak,tidak,belum,swasta,Perkotaan,62.74,32.4,tidak
+2180,Perempuan,32,tidak,tidak,sudah,swasta,Pedesaan,120.29,30.1,perokok aktif
+2181,Laki-laki,42,tidak,tidak,sudah,swasta,Perkotaan,84.26,33.3,tidak
+2182,Perempuan,48,tidak,tidak,sudah,swasta,Pedesaan,218.75,42.8,tidak
+2183,Perempuan,41,tidak,tidak,sudah,swasta,Perkotaan,85.97,30.5,tidak
+2184,Perempuan,58,ya,tidak,sudah,Wirausaha,Perkotaan,107.26,38.6,tidak
+2185,Perempuan,52,tidak,tidak,belum,swasta,Pedesaan,131.71,25.8,tidak
+2186,Laki-laki,18,tidak,tidak,sudah,Wirausaha,Pedesaan,106.04,21.9,mantan perokok
+2187,Perempuan,66,tidak,tidak,sudah,swasta,Pedesaan,76.68,26.1,perokok aktif
+2188,Perempuan,34,tidak,tidak,sudah,swasta,Pedesaan,121.64,28.6,tidak
+2189,Perempuan,29,tidak,tidak,sudah,swasta,Perkotaan,66.48,23.6,tidak
+2190,Laki-laki,69,tidak,tidak,sudah,swasta,Perkotaan,203.72,37.0,perokok aktif
+2191,Perempuan,41,ya,ya,sudah,Wirausaha,Perkotaan,98.8,30.5,mantan perokok
+2192,Laki-laki,39,tidak,tidak,belum,swasta,Pedesaan,58.09,39.2,tidak
+2193,Laki-laki,56,tidak,tidak,sudah,swasta,Perkotaan,111.19,30.7,mantan perokok
+2194,Perempuan,44,tidak,tidak,sudah,PNS,Perkotaan,74.99,36.7,tidak
+2195,Laki-laki,71,tidak,tidak,sudah,PNS,Pedesaan,217.87,27.4,mantan perokok
+2196,Perempuan,67,tidak,tidak,sudah,swasta,Perkotaan,218.44,47.9,mantan perokok
+2197,Perempuan,53,tidak,tidak,sudah,PNS,Perkotaan,107.12,30.3,tidak
+2198,Perempuan,40,tidak,tidak,sudah,PNS,Pedesaan,56.3,20.2,tidak
+2199,Perempuan,39,ya,tidak,sudah,Wirausaha,Pedesaan,130.47,31.3,mantan perokok
+2200,Perempuan,77,tidak,ya,sudah,PNS,Perkotaan,124.13,31.4,mantan perokok
+2201,Perempuan,53,ya,ya,sudah,swasta,Pedesaan,231.36,37.9,tidak
+2202,Laki-laki,25,ya,tidak,sudah,Wirausaha,Perkotaan,88.42,22.3,tidak
+2203,Perempuan,16,ya,tidak,sudah,swasta,Pedesaan,105.72,24.7,tidak
+2204,Perempuan,54,tidak,tidak,belum,swasta,Perkotaan,57.35,29.8,tidak
+2205,Laki-laki,48,tidak,tidak,sudah,swasta,Perkotaan,86.34,27.4,tidak
+2206,Laki-laki,17,tidak,tidak,sudah,Wirausaha,Perkotaan,74.2,21.9,mantan perokok
+2207,Perempuan,50,tidak,tidak,sudah,swasta,Perkotaan,58.97,19.9,tidak
+2208,Perempuan,46,tidak,tidak,belum,swasta,Pedesaan,60.89,27.6,tidak
+2209,Laki-laki,26,tidak,tidak,sudah,swasta,Perkotaan,96.25,22.6,mantan perokok
+2210,Laki-laki,40,tidak,tidak,belum,Wirausaha,Perkotaan,215.08,31.9,tidak
+2211,Perempuan,66,tidak,ya,sudah,Wirausaha,Pedesaan,64.96,34.9,tidak
+2212,Laki-laki,51,tidak,tidak,sudah,swasta,Pedesaan,122.53,54.4,tidak
+2213,Perempuan,56,tidak,ya,sudah,swasta,Pedesaan,217.49,39.8,mantan perokok
+2214,Perempuan,16,tidak,tidak,belum,swasta,Perkotaan,57.99,27.5,perokok aktif
+2215,Laki-laki,44,tidak,tidak,sudah,swasta,Perkotaan,103.12,24.8,perokok aktif
+2216,Perempuan,43,tidak,ya,sudah,PNS,Perkotaan,84.37,32.2,perokok aktif
+2217,Perempuan,62,ya,tidak,sudah,swasta,Perkotaan,209.83,32.5,tidak
+2218,Perempuan,22,tidak,tidak,belum,swasta,Pedesaan,104.34,34.4,perokok aktif
+2219,Laki-laki,25,tidak,tidak,sudah,Wirausaha,Perkotaan,69.75,40.9,tidak
+2220,Laki-laki,30,tidak,tidak,belum,swasta,Perkotaan,150.61,23.8,perokok aktif
+2221,Perempuan,48,tidak,tidak,sudah,swasta,Pedesaan,74.11,20.5,tidak
+2222,Perempuan,77,tidak,tidak,belum,swasta,Pedesaan,103.31,23.9,perokok aktif
+2223,Perempuan,82,tidak,tidak,sudah,swasta,Pedesaan,156.42,27.6,tidak
+2224,Perempuan,82,tidak,tidak,sudah,swasta,Pedesaan,217.53,21.6,tidak
+2225,Perempuan,56,tidak,tidak,belum,swasta,Perkotaan,70.57,38.1,tidak
+2226,Laki-laki,61,tidak,tidak,sudah,Wirausaha,Perkotaan,192.33,33.3,perokok aktif
+2227,Perempuan,18,tidak,tidak,sudah,swasta,Perkotaan,99.81,28.8,mantan perokok
+2228,Perempuan,17,tidak,tidak,belum,swasta,Perkotaan,99.99,22.7,tidak
+2229,Laki-laki,46,tidak,tidak,sudah,PNS,Pedesaan,78.18,30.8,tidak
+2230,Laki-laki,51,tidak,tidak,sudah,swasta,Pedesaan,83.21,28.5,tidak
+2231,Perempuan,20,tidak,tidak,sudah,PNS,Pedesaan,65.81,31.8,tidak
+2232,Perempuan,57,tidak,tidak,belum,belum bekerja,Perkotaan,65.24,24.0,tidak
+2233,Laki-laki,64,ya,tidak,sudah,swasta,Perkotaan,65.63,26.3,mantan perokok
+2234,Perempuan,59,tidak,ya,sudah,swasta,Perkotaan,92.54,27.1,perokok aktif
+2235,Laki-laki,56,ya,tidak,sudah,swasta,Perkotaan,93.79,16.2,mantan perokok
+2236,Laki-laki,75,tidak,tidak,sudah,swasta,Pedesaan,109.52,23.9,tidak
+2237,Laki-laki,74,tidak,tidak,sudah,swasta,Perkotaan,229.75,32.5,mantan perokok
+2238,Perempuan,59,tidak,tidak,sudah,swasta,Perkotaan,89.15,29.0,mantan perokok
+2239,Perempuan,74,ya,tidak,belum,swasta,Pedesaan,81.34,33.9,tidak
+2240,Perempuan,61,tidak,tidak,sudah,Wirausaha,Perkotaan,208.57,29.2,tidak
+2241,Laki-laki,61,tidak,tidak,sudah,Wirausaha,Pedesaan,132.53,29.3,perokok aktif
+2242,Perempuan,16,tidak,tidak,sudah,swasta,Perkotaan,130.39,22.6,tidak
+2243,Perempuan,46,tidak,tidak,belum,swasta,Perkotaan,69.06,21.2,tidak
+2244,Laki-laki,69,tidak,tidak,belum,swasta,Perkotaan,65.86,27.3,tidak
+2245,Perempuan,79,ya,ya,sudah,Wirausaha,Perkotaan,127.29,27.7,tidak
+2246,Perempuan,72,tidak,tidak,sudah,swasta,Pedesaan,64.86,22.7,mantan perokok
+2247,Perempuan,69,tidak,tidak,sudah,Wirausaha,Pedesaan,72.17,36.8,tidak
+2248,Perempuan,74,ya,tidak,sudah,swasta,Perkotaan,98.26,31.5,mantan perokok
+2249,Laki-laki,56,ya,tidak,sudah,swasta,Perkotaan,258.99,24.5,tidak
+2250,Laki-laki,38,tidak,tidak,belum,Wirausaha,Pedesaan,74.95,39.0,tidak
+2251,Perempuan,28,tidak,tidak,sudah,swasta,Perkotaan,81.4,51.3,mantan perokok
+2252,Perempuan,44,ya,tidak,sudah,swasta,Perkotaan,133.08,24.1,tidak
+2253,Laki-laki,49,tidak,tidak,sudah,swasta,Perkotaan,144.93,21.1,tidak
+2254,Laki-laki,80,tidak,tidak,sudah,Wirausaha,Perkotaan,201.02,26.3,perokok aktif
+2255,Perempuan,64,tidak,tidak,sudah,swasta,Perkotaan,111.81,30.6,tidak
+2256,Laki-laki,20,ya,tidak,sudah,PNS,Perkotaan,67.19,20.4,tidak
+2257,Perempuan,35,tidak,tidak,sudah,PNS,Pedesaan,82.43,35.5,perokok aktif
+2258,Perempuan,80,tidak,tidak,sudah,Wirausaha,Perkotaan,118.6,26.8,tidak
+2259,Perempuan,79,tidak,tidak,sudah,PNS,Perkotaan,62.46,26.3,tidak
+2260,Perempuan,80,tidak,tidak,belum,swasta,Perkotaan,84.36,27.1,tidak
+2261,Laki-laki,79,tidak,tidak,sudah,PNS,Pedesaan,66.43,33.8,tidak
+2262,Perempuan,79,tidak,tidak,sudah,PNS,Perkotaan,79.65,31.6,tidak
+2263,Perempuan,48,tidak,tidak,sudah,PNS,Pedesaan,87.4,23.0,tidak
+2264,Laki-laki,73,tidak,tidak,belum,swasta,Pedesaan,70.09,27.9,tidak
+2265,Laki-laki,81,ya,tidak,sudah,Wirausaha,Pedesaan,164.05,31.3,perokok aktif
+2266,Perempuan,46,tidak,tidak,belum,swasta,Pedesaan,126.97,30.9,perokok aktif
+2267,Perempuan,60,tidak,tidak,sudah,Wirausaha,Perkotaan,81.89,24.5,tidak
+2268,Laki-laki,64,tidak,tidak,belum,belum bekerja,Perkotaan,247.15,43.1,tidak
+2269,Laki-laki,22,tidak,tidak,sudah,swasta,Pedesaan,92.38,25.5,perokok aktif
+2270,Laki-laki,70,tidak,tidak,sudah,PNS,Pedesaan,174.99,22.7,tidak
+2271,Perempuan,72,tidak,ya,sudah,swasta,Perkotaan,85.53,34.4,mantan perokok
+2272,Perempuan,33,tidak,tidak,sudah,swasta,Perkotaan,101.54,31.0,tidak
+2273,Perempuan,57,ya,tidak,sudah,swasta,Pedesaan,140.41,34.0,mantan perokok
+2274,Perempuan,17,tidak,tidak,sudah,swasta,Pedesaan,83.1,29.8,mantan perokok
+2275,Perempuan,28,tidak,tidak,sudah,Wirausaha,Perkotaan,76.93,27.2,mantan perokok
+2276,Perempuan,62,ya,tidak,sudah,swasta,Pedesaan,113.94,30.2,mantan perokok
+2277,Perempuan,78,tidak,ya,sudah,swasta,Pedesaan,69.41,21.3,mantan perokok
+2278,Laki-laki,21,tidak,ya,sudah,swasta,Perkotaan,102.23,20.6,mantan perokok
+2279,Laki-laki,60,tidak,ya,sudah,swasta,Pedesaan,156.62,23.3,tidak
+2280,Perempuan,70,ya,tidak,sudah,swasta,Pedesaan,111.12,28.9,tidak
+2281,Perempuan,21,tidak,tidak,sudah,swasta,Perkotaan,74.38,27.2,tidak
+2282,Laki-laki,26,tidak,tidak,belum,swasta,Perkotaan,89.04,26.2,tidak
+2283,Laki-laki,80,tidak,tidak,sudah,Wirausaha,Perkotaan,99.64,17.4,mantan perokok
+2284,Perempuan,73,tidak,ya,belum,swasta,Perkotaan,194.99,32.8,perokok aktif
+2285,Perempuan,42,tidak,tidak,belum,swasta,Perkotaan,102.49,33.4,perokok aktif
+2286,Laki-laki,20,ya,tidak,sudah,PNS,Perkotaan,107.88,20.1,mantan perokok
+2287,Laki-laki,49,tidak,tidak,sudah,Wirausaha,Pedesaan,76.04,27.5,perokok aktif
+2288,Perempuan,46,tidak,tidak,belum,swasta,Perkotaan,106.41,33.2,tidak
+2289,Perempuan,25,tidak,tidak,belum,swasta,Pedesaan,75.94,21.3,perokok aktif
+2290,Perempuan,31,ya,tidak,sudah,Wirausaha,Pedesaan,91.51,23.8,tidak
+2291,Laki-laki,70,tidak,ya,sudah,swasta,Perkotaan,76.34,24.4,mantan perokok
+2292,Laki-laki,42,tidak,ya,sudah,PNS,Pedesaan,120.11,31.7,tidak
+2293,Laki-laki,29,tidak,tidak,sudah,PNS,Perkotaan,70.04,24.8,mantan perokok
+2294,Laki-laki,23,tidak,tidak,belum,swasta,Pedesaan,146.75,19.0,perokok aktif
+2295,Perempuan,78,tidak,tidak,sudah,swasta,Pedesaan,93.4,29.8,tidak
+2296,Laki-laki,81,tidak,tidak,sudah,swasta,Perkotaan,100.74,25.9,mantan perokok
+2297,Laki-laki,50,tidak,tidak,sudah,swasta,Pedesaan,65.12,32.9,mantan perokok
+2298,Perempuan,58,tidak,tidak,sudah,Wirausaha,Perkotaan,87.96,39.2,tidak
+2299,Laki-laki,61,tidak,tidak,belum,Wirausaha,Perkotaan,210.08,32.3,tidak
+2300,Laki-laki,33,ya,tidak,sudah,swasta,Pedesaan,85.78,47.3,tidak
+2301,Laki-laki,59,tidak,tidak,sudah,Wirausaha,Pedesaan,95.83,33.6,tidak
+2302,Perempuan,66,ya,tidak,sudah,swasta,Pedesaan,112.04,29.6,tidak
+2303,Perempuan,44,tidak,tidak,sudah,swasta,Pedesaan,55.95,29.0,mantan perokok
+2304,Perempuan,50,tidak,tidak,sudah,swasta,Perkotaan,70.74,28.2,tidak
+2305,Perempuan,24,tidak,tidak,sudah,PNS,Perkotaan,100.24,20.8,mantan perokok
+2306,Laki-laki,41,ya,ya,sudah,swasta,Pedesaan,81.38,30.4,tidak
+2307,Perempuan,52,tidak,tidak,sudah,swasta,Pedesaan,80.09,32.6,tidak
+2308,Perempuan,26,tidak,tidak,sudah,PNS,Pedesaan,70.53,26.3,perokok aktif
+2309,Perempuan,37,tidak,tidak,sudah,Wirausaha,Perkotaan,164.2,26.5,tidak
+2310,Perempuan,31,tidak,tidak,sudah,Wirausaha,Pedesaan,55.61,22.1,mantan perokok
+2311,Laki-laki,44,tidak,tidak,sudah,swasta,Perkotaan,63.16,33.6,mantan perokok
+2312,Perempuan,78,tidak,tidak,sudah,swasta,Perkotaan,56.11,25.5,mantan perokok
+2313,Perempuan,57,tidak,tidak,sudah,swasta,Pedesaan,198.9,37.3,perokok aktif
+2314,Perempuan,75,ya,tidak,sudah,swasta,Pedesaan,183.25,32.6,tidak
+2315,Perempuan,41,ya,tidak,belum,swasta,Perkotaan,83.39,42.1,mantan perokok
+2316,Laki-laki,70,tidak,tidak,sudah,swasta,Pedesaan,223.82,23.6,perokok aktif
+2317,Laki-laki,56,tidak,tidak,sudah,swasta,Pedesaan,207.87,36.2,mantan perokok
+2318,Laki-laki,20,tidak,tidak,sudah,swasta,Pedesaan,122.22,25.3,tidak
+2319,Laki-laki,64,ya,ya,belum,Wirausaha,Pedesaan,88.16,40.9,tidak
+2320,Perempuan,15,tidak,tidak,belum,Wirausaha,Pedesaan,110.2,28.6,mantan perokok
+2321,Perempuan,34,tidak,tidak,sudah,swasta,Pedesaan,85.27,26.6,perokok aktif
+2322,Perempuan,63,tidak,tidak,belum,swasta,Pedesaan,128.08,29.2,tidak
+2323,Laki-laki,74,tidak,tidak,sudah,swasta,Perkotaan,66.19,34.3,tidak
+2324,Laki-laki,35,ya,tidak,sudah,Wirausaha,Pedesaan,91.13,35.4,mantan perokok
+2325,Perempuan,28,tidak,tidak,belum,belum bekerja,Perkotaan,65.99,27.5,mantan perokok
+2326,Perempuan,44,tidak,tidak,sudah,swasta,Perkotaan,203.22,27.5,tidak
+2327,Perempuan,33,ya,tidak,sudah,swasta,Perkotaan,104.54,23.9,tidak
+2328,Laki-laki,56,tidak,tidak,sudah,swasta,Perkotaan,249.31,35.8,mantan perokok
+2329,Laki-laki,74,tidak,tidak,sudah,swasta,Pedesaan,70.28,21.8,mantan perokok
+2330,Perempuan,76,tidak,tidak,sudah,Wirausaha,Pedesaan,202.96,31.8,mantan perokok
+2331,Perempuan,31,tidak,tidak,sudah,PNS,Perkotaan,87.36,26.3,tidak
+2332,Perempuan,32,tidak,tidak,belum,PNS,Perkotaan,64.65,37.5,tidak
+2333,Laki-laki,34,tidak,tidak,sudah,Wirausaha,Perkotaan,194.87,26.9,mantan perokok
+2334,Laki-laki,27,tidak,ya,sudah,swasta,Perkotaan,62.53,30.7,perokok aktif
+2335,Perempuan,78,tidak,tidak,sudah,swasta,Perkotaan,65.45,32.0,mantan perokok
+2336,Perempuan,30,tidak,tidak,sudah,swasta,Perkotaan,115.81,27.0,tidak
+2337,Laki-laki,65,tidak,ya,sudah,swasta,Perkotaan,61.06,26.3,tidak
+2338,Perempuan,25,tidak,tidak,belum,belum bekerja,Pedesaan,70.96,22.7,tidak
+2339,Perempuan,79,tidak,tidak,sudah,PNS,Perkotaan,77.22,25.5,mantan perokok
+2340,Perempuan,53,tidak,tidak,sudah,Wirausaha,Perkotaan,218.58,52.8,mantan perokok
+2341,Perempuan,66,tidak,tidak,belum,swasta,Perkotaan,88.21,23.5,perokok aktif
+2342,Laki-laki,76,tidak,tidak,sudah,swasta,Perkotaan,67.59,35.2,tidak
+2343,Laki-laki,49,tidak,tidak,sudah,Wirausaha,Pedesaan,75.4,30.2,perokok aktif
+2344,Laki-laki,33,tidak,ya,sudah,swasta,Perkotaan,214.64,39.9,perokok aktif
+2345,Perempuan,22,tidak,tidak,belum,Wirausaha,Pedesaan,58.25,27.9,tidak
+2346,Perempuan,52,ya,tidak,sudah,Wirausaha,Perkotaan,78.03,18.8,mantan perokok
+2347,Perempuan,56,tidak,tidak,sudah,PNS,Pedesaan,99.2,28.1,tidak
+2348,Perempuan,12,tidak,tidak,belum,swasta,Pedesaan,106.2,20.1,tidak
+2349,Perempuan,18,tidak,tidak,sudah,PNS,Pedesaan,83.37,24.3,mantan perokok
+2350,Perempuan,13,tidak,tidak,sudah,swasta,Perkotaan,78.31,24.6,mantan perokok
+2351,Laki-laki,75,tidak,tidak,sudah,swasta,Perkotaan,80.89,42.6,mantan perokok
+2352,Perempuan,65,tidak,tidak,sudah,swasta,Perkotaan,193.75,25.1,mantan perokok
+2353,Perempuan,64,tidak,tidak,sudah,swasta,Pedesaan,100.68,27.3,perokok aktif
+2354,Laki-laki,37,tidak,tidak,sudah,swasta,Pedesaan,88.72,28.2,tidak
+2355,Perempuan,36,tidak,tidak,sudah,swasta,Pedesaan,77.67,30.9,perokok aktif
+2356,Perempuan,63,tidak,tidak,sudah,swasta,Perkotaan,104.23,31.9,perokok aktif
+2357,Perempuan,44,tidak,tidak,sudah,swasta,Perkotaan,223.57,44.7,perokok aktif
+2358,Laki-laki,38,tidak,tidak,sudah,swasta,Perkotaan,112.69,23.4,tidak
+2359,Perempuan,29,tidak,tidak,belum,swasta,Pedesaan,59.69,28.1,tidak
+2360,Laki-laki,29,tidak,tidak,sudah,Wirausaha,Pedesaan,113.86,30.8,mantan perokok
+2361,Perempuan,80,tidak,ya,sudah,swasta,Pedesaan,206.58,33.0,tidak
+2362,Perempuan,80,tidak,tidak,sudah,PNS,Pedesaan,192.56,29.4,tidak
+2363,Laki-laki,59,ya,tidak,sudah,Wirausaha,Perkotaan,75.28,23.1,mantan perokok
+2364,Perempuan,40,tidak,tidak,sudah,Wirausaha,Perkotaan,82.11,28.0,perokok aktif
+2365,Perempuan,53,tidak,tidak,sudah,swasta,Perkotaan,130.58,30.6,tidak
+2366,Perempuan,46,ya,tidak,sudah,swasta,Pedesaan,104.58,36.3,tidak
+2367,Laki-laki,26,tidak,tidak,sudah,swasta,Perkotaan,102.3,21.9,tidak
+2368,Laki-laki,78,tidak,ya,sudah,swasta,Pedesaan,208.54,27.9,tidak
+2369,Laki-laki,80,tidak,tidak,sudah,swasta,Pedesaan,57.24,26.4,tidak
+2370,Laki-laki,24,tidak,ya,sudah,swasta,Pedesaan,65.41,29.3,tidak
+2371,Perempuan,51,tidak,tidak,sudah,swasta,Pedesaan,55.2,33.6,perokok aktif
+2372,Perempuan,33,tidak,tidak,sudah,swasta,Perkotaan,108.28,32.1,tidak
+2373,Perempuan,45,tidak,tidak,belum,swasta,Perkotaan,73.3,22.6,tidak
+2374,Perempuan,13,tidak,tidak,sudah,swasta,Perkotaan,84.47,17.1,mantan perokok
+2375,Laki-laki,56,tidak,tidak,sudah,Wirausaha,Pedesaan,108.93,28.1,tidak
+2376,Laki-laki,38,ya,tidak,sudah,swasta,Pedesaan,76.33,28.3,mantan perokok
+2377,Perempuan,51,ya,tidak,sudah,swasta,Perkotaan,105.54,28.4,mantan perokok
+2378,Laki-laki,62,tidak,tidak,sudah,swasta,Pedesaan,83.97,29.2,tidak
+2379,Laki-laki,67,tidak,tidak,sudah,swasta,Perkotaan,114.87,24.9,perokok aktif
+2380,Perempuan,64,tidak,tidak,sudah,Wirausaha,Pedesaan,101.62,25.3,tidak
+2381,Perempuan,51,tidak,tidak,sudah,swasta,Pedesaan,114.16,35.2,tidak
+2382,Laki-laki,70,tidak,tidak,sudah,Wirausaha,Pedesaan,77.5,22.7,tidak
+2383,Laki-laki,45,tidak,tidak,sudah,swasta,Pedesaan,76.57,33.4,tidak
+2384,Laki-laki,40,tidak,tidak,belum,swasta,Pedesaan,186.28,25.4,tidak
+2385,Laki-laki,75,tidak,tidak,sudah,PNS,Pedesaan,93.11,24.0,tidak
+2386,Perempuan,79,ya,tidak,belum,swasta,Perkotaan,71.94,30.3,tidak
+2387,Laki-laki,41,tidak,tidak,sudah,swasta,Pedesaan,102.17,32.8,perokok aktif
+2388,Perempuan,44,tidak,tidak,sudah,Wirausaha,Pedesaan,136.72,33.0,tidak
+2389,Perempuan,61,tidak,ya,sudah,PNS,Pedesaan,112.24,37.4,perokok aktif
+2390,Perempuan,63,tidak,tidak,sudah,swasta,Pedesaan,201.26,25.5,tidak
+2391,Perempuan,72,tidak,tidak,sudah,swasta,Pedesaan,117.99,23.2,tidak
+2392,Perempuan,36,tidak,tidak,sudah,Wirausaha,Pedesaan,75.55,25.8,mantan perokok
+2393,Laki-laki,64,tidak,tidak,sudah,Wirausaha,Pedesaan,102.76,27.5,mantan perokok
+2394,Laki-laki,74,tidak,tidak,sudah,Wirausaha,Perkotaan,98.45,36.1,perokok aktif
+2395,Laki-laki,38,tidak,tidak,sudah,swasta,Pedesaan,131.66,21.3,mantan perokok
+2396,Perempuan,82,tidak,tidak,sudah,swasta,Pedesaan,90.88,25.7,tidak
+2397,Perempuan,78,ya,tidak,sudah,Wirausaha,Perkotaan,197.91,35.8,tidak
+2398,Perempuan,41,tidak,tidak,belum,swasta,Pedesaan,110.5,23.8,tidak
+2399,Perempuan,38,tidak,tidak,sudah,swasta,Pedesaan,101.39,25.0,tidak
+2400,Perempuan,38,tidak,tidak,sudah,Wirausaha,Pedesaan,113.69,24.0,tidak
+2401,Perempuan,63,tidak,tidak,sudah,swasta,Pedesaan,174.28,24.4,tidak
+2402,Perempuan,82,tidak,tidak,sudah,swasta,Perkotaan,103.68,24.0,tidak
+2403,Perempuan,56,tidak,tidak,sudah,swasta,Perkotaan,116.67,33.0,tidak
+2404,Laki-laki,49,tidak,ya,sudah,Wirausaha,Pedesaan,90.55,33.0,mantan perokok
+2405,Laki-laki,52,ya,tidak,sudah,swasta,Pedesaan,77.53,30.5,tidak
+2406,Laki-laki,44,tidak,tidak,belum,swasta,Pedesaan,79.13,23.8,perokok aktif
+2407,Perempuan,38,tidak,tidak,belum,swasta,Perkotaan,115.85,31.2,tidak
+2408,Laki-laki,79,ya,tidak,sudah,Wirausaha,Perkotaan,66.05,23.0,mantan perokok
+2409,Laki-laki,66,tidak,tidak,sudah,Wirausaha,Perkotaan,69.81,24.3,mantan perokok
+2410,Laki-laki,16,tidak,tidak,sudah,swasta,Perkotaan,66.77,23.5,tidak
+2411,Laki-laki,46,tidak,ya,sudah,swasta,Perkotaan,64.39,38.4,perokok aktif
+2412,Perempuan,33,tidak,tidak,sudah,Wirausaha,Perkotaan,65.24,28.4,tidak
+2413,Perempuan,50,tidak,tidak,belum,PNS,Pedesaan,58.28,26.4,mantan perokok
+2414,Perempuan,72,ya,tidak,sudah,swasta,Pedesaan,74.74,29.8,tidak
+2415,Laki-laki,56,tidak,tidak,sudah,Wirausaha,Pedesaan,63.88,27.3,tidak
+2416,Laki-laki,11,ya,ya,sudah,swasta,Perkotaan,81.38,19.9,tidak
+2417,Perempuan,48,ya,tidak,belum,PNS,Perkotaan,62.21,32.0,tidak
+2418,Perempuan,72,tidak,tidak,sudah,swasta,Perkotaan,73.53,22.9,tidak
+2419,Perempuan,70,ya,tidak,sudah,PNS,Pedesaan,197.43,31.4,mantan perokok
+2420,Perempuan,77,tidak,tidak,sudah,Wirausaha,Pedesaan,81.39,37.2,perokok aktif
+2421,Laki-laki,68,tidak,tidak,sudah,Wirausaha,Perkotaan,99.79,38.2,perokok aktif
+2422,Perempuan,39,tidak,tidak,sudah,swasta,Perkotaan,81.67,29.6,perokok aktif
+2423,Perempuan,78,ya,ya,sudah,swasta,Perkotaan,78.56,29.2,tidak
+2424,Perempuan,57,ya,tidak,sudah,Wirausaha,Perkotaan,178.36,31.5,mantan perokok
+2425,Perempuan,38,tidak,tidak,belum,PNS,Perkotaan,85.46,37.6,tidak
+2426,Perempuan,70,tidak,tidak,sudah,swasta,Pedesaan,86.08,38.8,tidak
+2427,Perempuan,27,tidak,tidak,sudah,swasta,Pedesaan,84.84,39.2,tidak
+2428,Perempuan,81,tidak,tidak,sudah,Wirausaha,Perkotaan,108.46,15.4,tidak
+2429,Perempuan,62,ya,tidak,sudah,swasta,Pedesaan,92.06,34.3,tidak
+2430,Perempuan,61,tidak,tidak,sudah,swasta,Perkotaan,156.5,42.3,perokok aktif
+2431,Perempuan,71,ya,tidak,sudah,swasta,Perkotaan,263.32,38.7,tidak
+2432,Laki-laki,34,tidak,tidak,sudah,swasta,Perkotaan,61.34,33.3,tidak
+2433,Laki-laki,22,tidak,tidak,sudah,Wirausaha,Perkotaan,82.06,29.2,tidak
+2434,Perempuan,79,ya,tidak,belum,swasta,Perkotaan,86.48,34.3,tidak
+2435,Laki-laki,49,ya,tidak,sudah,swasta,Perkotaan,85.91,27.0,mantan perokok
+2436,Laki-laki,47,tidak,ya,sudah,swasta,Pedesaan,73.59,23.9,mantan perokok
+2437,Laki-laki,54,tidak,ya,sudah,swasta,Pedesaan,78.33,33.1,mantan perokok
+2438,Laki-laki,54,tidak,tidak,sudah,PNS,Perkotaan,88.75,25.6,tidak
+2439,Perempuan,44,tidak,tidak,sudah,swasta,Pedesaan,75.71,27.1,perokok aktif
+2440,Laki-laki,80,ya,ya,sudah,swasta,Perkotaan,185.39,23.0,perokok aktif
+2441,Laki-laki,57,tidak,tidak,belum,swasta,Perkotaan,221.89,37.3,perokok aktif
+2442,Perempuan,51,tidak,ya,sudah,swasta,Pedesaan,133.71,29.5,tidak
+2443,Perempuan,40,tidak,tidak,belum,belum bekerja,Perkotaan,218.53,38.2,tidak
+2444,Perempuan,81,ya,ya,sudah,swasta,Perkotaan,67.92,26.2,mantan perokok
+2445,Perempuan,41,tidak,tidak,sudah,swasta,Pedesaan,83.5,32.3,mantan perokok
+2446,Perempuan,36,tidak,tidak,sudah,swasta,Pedesaan,73.04,25.8,perokok aktif
+2447,Perempuan,44,tidak,tidak,sudah,swasta,Pedesaan,105.25,30.1,tidak
+2448,Perempuan,82,tidak,tidak,sudah,Wirausaha,Pedesaan,81.67,21.3,perokok aktif
+2449,Laki-laki,32,tidak,ya,sudah,swasta,Pedesaan,109.03,30.6,mantan perokok
+2450,Perempuan,35,tidak,tidak,belum,swasta,Pedesaan,93.52,27.2,perokok aktif
+2451,Perempuan,17,tidak,tidak,sudah,swasta,Perkotaan,79.3,26.9,tidak
+2452,Perempuan,57,tidak,tidak,sudah,swasta,Perkotaan,142.1,32.4,perokok aktif
+2453,Perempuan,26,ya,ya,sudah,swasta,Pedesaan,61.35,29.8,mantan perokok
+2454,Laki-laki,14,tidak,tidak,sudah,swasta,Perkotaan,67.75,26.0,tidak
+2455,Laki-laki,82,tidak,tidak,sudah,PNS,Perkotaan,78.75,31.2,tidak
+2456,Perempuan,51,ya,tidak,sudah,PNS,Perkotaan,62.34,33.2,mantan perokok
+2457,Perempuan,52,tidak,tidak,belum,swasta,Pedesaan,86.14,43.1,tidak
+2458,Laki-laki,47,tidak,tidak,sudah,Wirausaha,Pedesaan,88.05,34.4,tidak
+2459,Perempuan,46,tidak,tidak,sudah,swasta,Perkotaan,89.77,41.7,tidak
+2460,Laki-laki,64,tidak,tidak,sudah,swasta,Perkotaan,187.13,41.8,perokok aktif
+2461,Laki-laki,39,ya,ya,sudah,swasta,Pedesaan,252.85,38.6,perokok aktif
+2462,Laki-laki,18,tidak,tidak,belum,swasta,Perkotaan,95.99,22.4,tidak
+2463,Perempuan,32,tidak,tidak,sudah,Wirausaha,Pedesaan,77.52,27.8,tidak
+2464,Laki-laki,17,tidak,tidak,sudah,swasta,Pedesaan,71.32,26.1,mantan perokok
+2465,Laki-laki,71,tidak,tidak,sudah,swasta,Pedesaan,187.15,35.7,mantan perokok
+2466,Perempuan,34,tidak,tidak,belum,swasta,Perkotaan,79.07,32.7,tidak
+2467,Perempuan,46,tidak,tidak,sudah,swasta,Perkotaan,56.43,26.7,perokok aktif
+2468,Laki-laki,50,tidak,tidak,sudah,swasta,Pedesaan,201.4,35.4,mantan perokok
+2469,Perempuan,30,ya,tidak,sudah,PNS,Perkotaan,104.15,33.1,tidak
+2470,Perempuan,78,ya,tidak,sudah,swasta,Perkotaan,64.64,25.0,tidak
+2471,Laki-laki,62,ya,tidak,sudah,swasta,Perkotaan,68.56,38.3,tidak
+2472,Perempuan,79,tidak,tidak,sudah,swasta,Pedesaan,74.95,29.8,tidak
+2473,Perempuan,60,tidak,tidak,sudah,Wirausaha,Pedesaan,200.07,34.7,tidak
+2474,Perempuan,39,tidak,tidak,sudah,swasta,Pedesaan,224.46,31.1,tidak
+2475,Laki-laki,20,tidak,tidak,belum,belum bekerja,Pedesaan,80.02,29.0,tidak
+2476,Laki-laki,58,ya,ya,sudah,swasta,Pedesaan,240.59,31.4,perokok aktif
+2477,Laki-laki,79,tidak,tidak,sudah,swasta,Pedesaan,70.13,31.1,tidak
+2478,Perempuan,23,tidak,tidak,sudah,PNS,Pedesaan,55.85,25.4,perokok aktif
+2479,Perempuan,64,ya,tidak,sudah,swasta,Pedesaan,113.21,40.2,tidak
+2480,Perempuan,72,tidak,ya,sudah,swasta,Pedesaan,212.37,38.2,tidak
+2481,Perempuan,23,tidak,tidak,sudah,swasta,Perkotaan,73.95,23.6,perokok aktif
+2482,Perempuan,66,tidak,tidak,sudah,swasta,Pedesaan,225.58,34.0,perokok aktif
+2483,Laki-laki,60,tidak,tidak,sudah,swasta,Perkotaan,126.79,31.7,mantan perokok
+2484,Laki-laki,63,tidak,tidak,belum,swasta,Perkotaan,66.73,42.1,tidak
+2485,Laki-laki,35,tidak,ya,sudah,swasta,Pedesaan,100.5,45.5,mantan perokok
+2486,Perempuan,25,tidak,tidak,sudah,Wirausaha,Pedesaan,81.99,18.6,mantan perokok
+2487,Laki-laki,81,tidak,tidak,sudah,swasta,Perkotaan,241.89,26.4,perokok aktif
+2488,Laki-laki,32,tidak,tidak,sudah,swasta,Pedesaan,95.3,27.8,tidak
+2489,Perempuan,68,ya,tidak,sudah,Wirausaha,Pedesaan,99.62,26.1,mantan perokok
+2490,Perempuan,49,tidak,tidak,sudah,PNS,Perkotaan,79.32,22.3,perokok aktif
+2491,Laki-laki,43,tidak,tidak,sudah,PNS,Pedesaan,93.58,43.1,tidak
+2492,Perempuan,45,ya,tidak,sudah,Wirausaha,Perkotaan,78.55,22.2,mantan perokok
+2493,Laki-laki,22,tidak,tidak,sudah,swasta,Perkotaan,78.39,22.8,tidak
+2494,Perempuan,62,tidak,tidak,sudah,swasta,Perkotaan,71.3,39.2,tidak
+2495,Laki-laki,46,tidak,tidak,sudah,Wirausaha,Pedesaan,101.19,24.3,tidak
+2496,Laki-laki,50,tidak,tidak,belum,swasta,Pedesaan,97.3,24.6,tidak
+2497,Laki-laki,22,ya,tidak,sudah,swasta,Pedesaan,127.76,22.2,perokok aktif
+2498,Perempuan,27,tidak,tidak,sudah,PNS,Pedesaan,182.91,21.3,tidak
+2499,Laki-laki,63,ya,tidak,sudah,swasta,Perkotaan,116.69,34.5,perokok aktif
+2500,Laki-laki,41,tidak,tidak,sudah,swasta,Pedesaan,102.76,23.7,perokok aktif
+2501,Perempuan,49,tidak,tidak,belum,swasta,Perkotaan,100.97,29.9,perokok aktif
+2502,Perempuan,64,tidak,tidak,sudah,Wirausaha,Perkotaan,89.02,29.0,tidak
+2503,Laki-laki,53,ya,tidak,sudah,Wirausaha,Perkotaan,167.28,48.1,tidak
+2504,Laki-laki,40,tidak,tidak,sudah,swasta,Perkotaan,65.45,34.2,mantan perokok
+2505,Perempuan,58,tidak,tidak,sudah,swasta,Pedesaan,73.76,26.1,tidak
+2506,Laki-laki,60,tidak,tidak,sudah,swasta,Pedesaan,80.74,31.5,mantan perokok
+2507,Laki-laki,58,tidak,tidak,sudah,swasta,Perkotaan,66.95,23.0,perokok aktif
+2508,Perempuan,20,tidak,tidak,sudah,swasta,Pedesaan,73.88,23.0,perokok aktif
+2509,Perempuan,81,ya,tidak,sudah,PNS,Perkotaan,81.48,17.5,tidak
+2510,Perempuan,56,tidak,tidak,sudah,PNS,Pedesaan,214.15,49.8,tidak
+2511,Laki-laki,78,tidak,tidak,sudah,swasta,Pedesaan,82.68,45.2,mantan perokok
+2512,Perempuan,52,tidak,ya,sudah,swasta,Perkotaan,91.32,19.3,tidak
+2513,Perempuan,54,tidak,tidak,sudah,Wirausaha,Pedesaan,211.12,38.6,tidak
+2514,Perempuan,55,tidak,tidak,sudah,swasta,Pedesaan,99.42,35.2,perokok aktif
+2515,Laki-laki,58,tidak,tidak,belum,swasta,Pedesaan,78.1,43.4,tidak
+2516,Perempuan,21,tidak,tidak,sudah,swasta,Perkotaan,82.86,24.0,perokok aktif
+2517,Perempuan,22,tidak,tidak,sudah,swasta,Perkotaan,78.98,23.4,tidak
+2518,Perempuan,47,tidak,tidak,sudah,swasta,Perkotaan,73.41,29.4,tidak
+2519,Perempuan,66,tidak,tidak,sudah,Wirausaha,Perkotaan,70.79,28.3,tidak
+2520,Perempuan,77,tidak,tidak,sudah,Wirausaha,Pedesaan,62.02,29.6,tidak
+2521,Perempuan,39,tidak,tidak,sudah,swasta,Pedesaan,88.03,34.5,tidak
+2522,Laki-laki,80,tidak,ya,sudah,swasta,Perkotaan,217.26,34.8,perokok aktif
+2523,Laki-laki,78,tidak,tidak,belum,Wirausaha,Pedesaan,203.2,42.7,tidak
+2524,Perempuan,60,tidak,tidak,belum,swasta,Perkotaan,61.21,28.0,mantan perokok
+2525,Perempuan,43,tidak,tidak,sudah,Wirausaha,Perkotaan,97.0,27.2,perokok aktif
+2526,Perempuan,24,tidak,tidak,belum,swasta,Pedesaan,77.25,34.2,tidak
+2527,Perempuan,19,tidak,tidak,sudah,Wirausaha,Perkotaan,105.36,24.0,tidak
+2528,Perempuan,29,tidak,ya,sudah,swasta,Pedesaan,88.3,20.7,tidak
+2529,Laki-laki,58,tidak,tidak,sudah,swasta,Perkotaan,91.56,26.0,mantan perokok
+2530,Perempuan,29,tidak,tidak,sudah,swasta,Pedesaan,78.76,29.7,tidak
+2531,Perempuan,10,tidak,tidak,sudah,swasta,Perkotaan,64.39,16.2,tidak
+2532,Perempuan,42,ya,tidak,sudah,swasta,Perkotaan,100.74,40.0,tidak
+2533,Perempuan,51,tidak,tidak,belum,swasta,Pedesaan,193.01,25.4,tidak
+2534,Perempuan,71,tidak,tidak,sudah,swasta,Pedesaan,76.26,38.4,perokok aktif
+2535,Perempuan,76,tidak,tidak,sudah,Wirausaha,Perkotaan,140.1,29.9,mantan perokok
+2536,Perempuan,29,tidak,tidak,sudah,PNS,Pedesaan,112.74,27.5,tidak
+2537,Perempuan,52,tidak,tidak,sudah,swasta,Pedesaan,215.92,42.6,mantan perokok
+2538,Perempuan,61,tidak,tidak,sudah,PNS,Perkotaan,198.44,24.3,perokok aktif
+2539,Laki-laki,24,tidak,tidak,sudah,PNS,Perkotaan,130.25,29.7,tidak
+2540,Perempuan,59,tidak,tidak,belum,swasta,Pedesaan,81.33,30.4,tidak
+2541,Perempuan,21,tidak,tidak,belum,swasta,Perkotaan,97.31,24.5,perokok aktif
+2542,Laki-laki,41,tidak,tidak,sudah,PNS,Pedesaan,117.91,47.0,tidak
+2543,Perempuan,74,ya,tidak,sudah,swasta,Perkotaan,114.49,25.3,tidak
+2544,Laki-laki,52,ya,ya,sudah,swasta,Pedesaan,113.58,23.8,mantan perokok
+2545,Perempuan,34,tidak,tidak,sudah,Wirausaha,Pedesaan,78.47,31.1,tidak
+2546,Perempuan,41,ya,tidak,sudah,swasta,Perkotaan,159.3,34.6,tidak
+2547,Perempuan,52,ya,tidak,sudah,PNS,Perkotaan,204.17,32.7,tidak
+2548,Perempuan,79,ya,tidak,sudah,Wirausaha,Pedesaan,174.12,24.0,tidak
+2549,Laki-laki,34,ya,tidak,sudah,PNS,Perkotaan,106.22,45.0,mantan perokok
+2550,Perempuan,33,tidak,tidak,sudah,swasta,Perkotaan,88.77,20.5,tidak
+2551,Perempuan,80,tidak,tidak,belum,swasta,Perkotaan,196.49,28.8,tidak
+2552,Laki-laki,34,ya,tidak,sudah,swasta,Perkotaan,76.64,38.2,mantan perokok
+2553,Laki-laki,59,tidak,tidak,sudah,PNS,Pedesaan,90.9,28.7,perokok aktif
+2554,Laki-laki,49,tidak,tidak,sudah,swasta,Perkotaan,85.03,25.2,perokok aktif
+2555,Perempuan,15,tidak,tidak,sudah,swasta,Pedesaan,173.29,23.8,tidak
+2556,Perempuan,30,tidak,tidak,sudah,swasta,Pedesaan,100.27,26.4,tidak
+2557,Perempuan,54,tidak,tidak,sudah,swasta,Pedesaan,74.17,30.9,tidak
+2558,Perempuan,64,tidak,tidak,belum,swasta,Perkotaan,78.18,30.4,tidak
+2559,Perempuan,54,tidak,tidak,sudah,swasta,Pedesaan,76.53,28.3,perokok aktif
+2560,Perempuan,51,tidak,tidak,sudah,swasta,Pedesaan,233.3,43.5,mantan perokok
+2561,Perempuan,21,tidak,ya,sudah,PNS,Pedesaan,93.59,21.1,mantan perokok
+2562,Perempuan,39,tidak,tidak,belum,swasta,Perkotaan,84.24,35.5,perokok aktif
+2563,Laki-laki,48,tidak,tidak,sudah,PNS,Pedesaan,69.97,30.0,perokok aktif
+2564,Laki-laki,54,tidak,tidak,sudah,swasta,Perkotaan,72.01,37.5,tidak
+2565,Perempuan,27,tidak,tidak,sudah,swasta,Pedesaan,67.94,24.5,mantan perokok
+2566,Laki-laki,26,tidak,tidak,sudah,swasta,Pedesaan,141.91,53.9,tidak
+2567,Perempuan,60,tidak,tidak,sudah,Wirausaha,Perkotaan,68.46,34.6,mantan perokok
+2568,Perempuan,56,tidak,tidak,sudah,swasta,Pedesaan,235.75,22.2,tidak
+2569,Laki-laki,76,tidak,ya,sudah,swasta,Perkotaan,198.29,38.1,perokok aktif
+2570,Perempuan,59,tidak,tidak,sudah,swasta,Perkotaan,76.6,27.7,mantan perokok
+2571,Perempuan,79,tidak,ya,sudah,swasta,Perkotaan,87.06,24.3,tidak
+2572,Perempuan,12,tidak,tidak,sudah,Wirausaha,Pedesaan,56.23,22.2,tidak
+2573,Perempuan,80,tidak,tidak,sudah,swasta,Pedesaan,64.44,45.0,tidak
+2574,Perempuan,30,tidak,tidak,sudah,swasta,Pedesaan,110.95,23.8,tidak
+2575,Laki-laki,48,ya,tidak,belum,swasta,Pedesaan,123.32,22.1,tidak
+2576,Laki-laki,55,tidak,tidak,belum,swasta,Pedesaan,65.4,35.3,tidak
+2577,Perempuan,40,tidak,tidak,belum,swasta,Perkotaan,80.99,32.3,mantan perokok
+2578,Laki-laki,46,tidak,ya,sudah,swasta,Perkotaan,102.09,29.5,perokok aktif
+2579,Perempuan,31,tidak,tidak,sudah,PNS,Pedesaan,93.73,29.7,perokok aktif
+2580,Perempuan,65,tidak,tidak,sudah,swasta,Pedesaan,208.11,49.1,tidak
+2581,Perempuan,22,tidak,tidak,sudah,PNS,Pedesaan,81.44,24.9,tidak
+2582,Perempuan,66,tidak,tidak,sudah,swasta,Pedesaan,67.13,34.3,tidak
+2583,Laki-laki,55,tidak,tidak,sudah,swasta,Perkotaan,76.83,45.9,mantan perokok
+2584,Laki-laki,56,ya,tidak,sudah,swasta,Perkotaan,97.8,37.7,mantan perokok
+2585,Perempuan,27,tidak,tidak,sudah,swasta,Perkotaan,113.48,25.5,tidak
+2586,Perempuan,79,ya,ya,sudah,Wirausaha,Pedesaan,74.15,35.2,tidak
+2587,Perempuan,64,tidak,tidak,sudah,Wirausaha,Pedesaan,92.92,25.2,perokok aktif
+2588,Perempuan,26,tidak,tidak,sudah,swasta,Perkotaan,61.01,22.5,tidak
+2589,Perempuan,45,ya,tidak,sudah,Wirausaha,Perkotaan,76.38,24.9,tidak
+2590,Perempuan,23,tidak,ya,sudah,swasta,Perkotaan,66.42,25.4,tidak
+2591,Perempuan,80,tidak,tidak,belum,swasta,Perkotaan,87.36,27.7,tidak
+2592,Laki-laki,49,ya,ya,sudah,Wirausaha,Pedesaan,102.45,24.2,mantan perokok
+2593,Laki-laki,68,ya,ya,sudah,Wirausaha,Perkotaan,99.43,39.5,mantan perokok
+2594,Laki-laki,20,tidak,tidak,sudah,swasta,Perkotaan,71.36,32.0,mantan perokok
+2595,Perempuan,48,tidak,tidak,sudah,swasta,Perkotaan,68.78,19.8,tidak
+2596,Laki-laki,53,tidak,tidak,belum,swasta,Perkotaan,118.03,28.3,mantan perokok
+2597,Laki-laki,18,tidak,tidak,belum,belum bekerja,Perkotaan,77.07,26.3,tidak
+2598,Perempuan,55,tidak,tidak,sudah,swasta,Pedesaan,66.89,34.7,tidak
+2599,Perempuan,55,tidak,tidak,sudah,swasta,Pedesaan,98.48,35.2,mantan perokok
+2600,Perempuan,20,tidak,tidak,sudah,swasta,Perkotaan,71.71,25.4,perokok aktif
+2601,Perempuan,29,tidak,tidak,sudah,swasta,Pedesaan,138.39,19.5,tidak
+2602,Perempuan,55,tidak,tidak,sudah,swasta,Perkotaan,92.98,25.6,mantan perokok
+2603,Perempuan,39,tidak,tidak,belum,swasta,Pedesaan,125.17,27.6,tidak
+2604,Perempuan,76,tidak,tidak,sudah,swasta,Perkotaan,93.38,26.7,tidak
+2605,Laki-laki,49,ya,tidak,sudah,swasta,Perkotaan,171.23,34.4,perokok aktif
+2606,Perempuan,80,ya,tidak,sudah,swasta,Pedesaan,66.03,35.4,mantan perokok
+2607,Perempuan,30,ya,tidak,sudah,swasta,Perkotaan,85.37,30.2,tidak
+2608,Perempuan,29,tidak,tidak,sudah,Wirausaha,Pedesaan,55.69,41.1,tidak
+2609,Laki-laki,76,tidak,tidak,sudah,swasta,Perkotaan,129.69,28.6,mantan perokok
+2610,Perempuan,24,tidak,tidak,sudah,Wirausaha,Perkotaan,75.38,42.1,mantan perokok
+2611,Laki-laki,40,tidak,tidak,sudah,swasta,Perkotaan,65.98,17.5,tidak
+2612,Laki-laki,63,tidak,ya,sudah,swasta,Pedesaan,98.0,32.6,mantan perokok
+2613,Perempuan,32,tidak,tidak,belum,swasta,Perkotaan,72.79,33.5,tidak
+2614,Perempuan,51,tidak,tidak,belum,Wirausaha,Pedesaan,108.42,47.9,tidak
+2615,Laki-laki,54,ya,tidak,sudah,swasta,Perkotaan,72.93,35.7,mantan perokok
+2616,Perempuan,46,tidak,tidak,sudah,swasta,Perkotaan,78.74,37.2,mantan perokok
+2617,Laki-laki,52,ya,ya,belum,swasta,Perkotaan,228.58,29.2,mantan perokok
+2618,Perempuan,61,tidak,tidak,belum,swasta,Pedesaan,91.58,36.4,mantan perokok
+2619,Laki-laki,23,ya,tidak,sudah,Wirausaha,Pedesaan,84.34,25.2,perokok aktif
+2620,Perempuan,46,tidak,tidak,sudah,swasta,Perkotaan,206.79,43.9,tidak
+2621,Perempuan,63,tidak,tidak,sudah,swasta,Pedesaan,215.67,25.7,tidak
+2622,Laki-laki,58,tidak,tidak,belum,Wirausaha,Perkotaan,58.47,26.7,tidak
+2623,Perempuan,51,ya,tidak,sudah,PNS,Pedesaan,103.43,27.3,tidak
+2624,Perempuan,58,tidak,tidak,sudah,Wirausaha,Perkotaan,76.1,36.3,tidak
+2625,Perempuan,77,tidak,tidak,sudah,swasta,Perkotaan,79.31,26.2,tidak
+2626,Perempuan,39,ya,tidak,sudah,swasta,Pedesaan,209.63,25.7,mantan perokok
+2627,Perempuan,64,tidak,tidak,belum,swasta,Perkotaan,73.92,31.5,mantan perokok
+2628,Perempuan,35,tidak,ya,sudah,swasta,Perkotaan,99.41,27.4,mantan perokok
+2629,Laki-laki,57,tidak,ya,sudah,swasta,Pedesaan,130.74,20.4,mantan perokok
+2630,Perempuan,41,tidak,tidak,belum,swasta,Perkotaan,160.26,23.7,tidak
+2631,Laki-laki,78,ya,tidak,sudah,swasta,Pedesaan,56.68,19.0,mantan perokok
+2632,Laki-laki,64,tidak,tidak,sudah,PNS,Pedesaan,83.49,31.6,mantan perokok
+2633,Laki-laki,35,tidak,tidak,sudah,Wirausaha,Pedesaan,118.48,37.9,perokok aktif
+2634,Laki-laki,44,tidak,tidak,sudah,swasta,Perkotaan,58.91,51.1,mantan perokok
+2635,Laki-laki,48,tidak,tidak,sudah,swasta,Perkotaan,181.22,30.8,tidak
+2636,Perempuan,63,tidak,tidak,sudah,swasta,Perkotaan,111.38,48.5,perokok aktif
+2637,Perempuan,14,tidak,tidak,belum,swasta,Perkotaan,129.51,20.3,perokok aktif
+2638,Laki-laki,69,tidak,tidak,sudah,swasta,Pedesaan,94.14,27.1,perokok aktif
+2639,Perempuan,60,tidak,tidak,sudah,swasta,Perkotaan,102.85,38.4,tidak
+2640,Laki-laki,42,tidak,tidak,sudah,swasta,Pedesaan,79.7,33.5,tidak
+2641,Perempuan,62,tidak,tidak,sudah,swasta,Perkotaan,93.53,33.3,tidak
+2642,Laki-laki,51,tidak,tidak,sudah,Wirausaha,Pedesaan,81.5,43.4,tidak
+2643,Laki-laki,46,tidak,tidak,belum,swasta,Perkotaan,84.87,27.2,mantan perokok
+2644,Perempuan,56,tidak,tidak,belum,PNS,Perkotaan,83.27,32.9,perokok aktif
+2645,Perempuan,65,tidak,tidak,sudah,swasta,Perkotaan,67.67,36.8,tidak
+2646,Laki-laki,22,tidak,tidak,belum,swasta,Perkotaan,121.81,20.0,tidak
+2647,Laki-laki,30,tidak,tidak,sudah,PNS,Perkotaan,99.89,21.3,mantan perokok
+2648,Laki-laki,27,tidak,tidak,belum,belum bekerja,Pedesaan,133.13,23.3,tidak
+2649,Perempuan,45,tidak,ya,sudah,swasta,Pedesaan,64.14,29.4,tidak
+2650,Perempuan,50,tidak,tidak,sudah,swasta,Pedesaan,109.49,36.1,tidak
+2651,Perempuan,57,tidak,tidak,sudah,swasta,Perkotaan,189.39,36.7,mantan perokok
+2652,Laki-laki,66,ya,tidak,sudah,Wirausaha,Perkotaan,74.9,30.6,tidak
+2653,Perempuan,48,tidak,tidak,sudah,swasta,Pedesaan,141.21,31.9,perokok aktif
+2654,Laki-laki,35,tidak,tidak,sudah,swasta,Perkotaan,91.9,22.6,mantan perokok
+2655,Perempuan,57,tidak,tidak,sudah,swasta,Pedesaan,68.02,37.5,mantan perokok
+2656,Perempuan,36,tidak,tidak,sudah,swasta,Perkotaan,129.02,21.1,perokok aktif
+2657,Perempuan,47,tidak,tidak,sudah,swasta,Pedesaan,104.9,24.9,perokok aktif
+2658,Laki-laki,61,tidak,tidak,sudah,swasta,Perkotaan,59.52,32.5,mantan perokok
+2659,Laki-laki,58,tidak,tidak,sudah,Wirausaha,Pedesaan,83.57,19.7,perokok aktif
+2660,Laki-laki,66,tidak,tidak,belum,swasta,Perkotaan,141.79,24.7,tidak
+2661,Laki-laki,48,tidak,tidak,sudah,swasta,Pedesaan,91.35,27.0,perokok aktif
+2662,Perempuan,28,tidak,tidak,sudah,PNS,Perkotaan,85.74,33.4,tidak
+2663,Perempuan,60,tidak,tidak,belum,swasta,Perkotaan,183.01,21.1,perokok aktif
+2664,Perempuan,68,ya,tidak,sudah,Wirausaha,Pedesaan,231.96,36.7,tidak
+2665,Perempuan,47,tidak,tidak,sudah,swasta,Pedesaan,70.61,28.7,tidak
+2666,Perempuan,80,ya,tidak,belum,PNS,Perkotaan,85.0,30.9,mantan perokok
+2667,Perempuan,47,tidak,tidak,sudah,Wirausaha,Pedesaan,73.8,25.7,mantan perokok
+2668,Laki-laki,58,ya,ya,sudah,swasta,Perkotaan,77.05,33.2,mantan perokok
+2669,Laki-laki,25,tidak,tidak,belum,swasta,Perkotaan,74.47,27.2,tidak
+2670,Laki-laki,22,tidak,tidak,belum,swasta,Perkotaan,108.4,24.8,tidak
+2671,Perempuan,44,tidak,tidak,sudah,swasta,Pedesaan,87.13,36.3,tidak
+2672,Perempuan,65,tidak,tidak,sudah,swasta,Pedesaan,103.79,36.4,mantan perokok
+2673,Laki-laki,57,tidak,ya,sudah,swasta,Pedesaan,102.02,29.3,mantan perokok
+2674,Perempuan,81,tidak,tidak,sudah,swasta,Pedesaan,215.72,22.5,tidak
+2675,Perempuan,24,tidak,tidak,sudah,swasta,Perkotaan,65.03,25.7,mantan perokok
+2676,Laki-laki,53,ya,ya,belum,swasta,Pedesaan,192.91,49.3,mantan perokok
+2677,Laki-laki,57,tidak,tidak,sudah,PNS,Perkotaan,82.46,24.6,tidak
+2678,Perempuan,55,tidak,tidak,sudah,swasta,Perkotaan,213.74,35.8,tidak
+2679,Perempuan,50,tidak,tidak,sudah,swasta,Pedesaan,85.2,31.1,perokok aktif
+2680,Perempuan,24,tidak,tidak,belum,PNS,Perkotaan,113.94,21.3,tidak
+2681,Perempuan,10,tidak,tidak,sudah,swasta,Pedesaan,118.68,33.2,tidak
+2682,Laki-laki,55,tidak,ya,sudah,swasta,Pedesaan,101.04,28.4,mantan perokok
+2683,Laki-laki,75,tidak,tidak,belum,swasta,Pedesaan,254.58,32.1,perokok aktif
+2684,Laki-laki,52,ya,tidak,sudah,swasta,Perkotaan,241.39,36.8,perokok aktif
+2685,Perempuan,61,tidak,tidak,sudah,Wirausaha,Pedesaan,83.44,23.0,tidak
+2686,Perempuan,44,tidak,tidak,sudah,PNS,Perkotaan,81.42,22.6,tidak
+2687,Perempuan,55,tidak,tidak,belum,swasta,Perkotaan,72.58,33.7,tidak
+2688,Perempuan,70,tidak,tidak,sudah,swasta,Pedesaan,235.64,31.1,perokok aktif
+2689,Laki-laki,43,ya,ya,sudah,swasta,Pedesaan,82.33,40.2,mantan perokok
+2690,Laki-laki,27,ya,tidak,sudah,PNS,Pedesaan,120.26,36.8,mantan perokok
+2691,Perempuan,54,tidak,tidak,sudah,swasta,Perkotaan,68.37,25.4,tidak
+2692,Laki-laki,80,tidak,ya,sudah,swasta,Pedesaan,97.32,30.7,perokok aktif
+2693,Laki-laki,33,tidak,tidak,sudah,Wirausaha,Pedesaan,132.64,30.1,mantan perokok
+2694,Laki-laki,81,tidak,tidak,sudah,swasta,Perkotaan,95.59,23.0,tidak
+2695,Laki-laki,63,tidak,tidak,sudah,swasta,Perkotaan,98.7,29.4,tidak
+2696,Laki-laki,28,ya,tidak,sudah,swasta,Pedesaan,98.21,21.7,mantan perokok
+2697,Laki-laki,50,tidak,tidak,sudah,PNS,Perkotaan,80.19,21.6,mantan perokok
+2698,Perempuan,78,tidak,tidak,sudah,PNS,Perkotaan,174.62,28.1,tidak
+2699,Laki-laki,61,tidak,tidak,sudah,swasta,Perkotaan,82.9,23.0,perokok aktif
+2700,Perempuan,19,tidak,tidak,sudah,swasta,Pedesaan,63.85,43.9,mantan perokok
+2701,Perempuan,33,tidak,tidak,sudah,swasta,Perkotaan,122.95,32.6,tidak
+2702,Laki-laki,81,tidak,tidak,sudah,swasta,Perkotaan,72.81,26.3,mantan perokok
+2703,Perempuan,43,ya,tidak,sudah,swasta,Perkotaan,96.93,29.6,tidak
+2704,Laki-laki,61,tidak,tidak,belum,swasta,Pedesaan,103.15,33.0,tidak
+2705,Perempuan,32,tidak,tidak,sudah,swasta,Perkotaan,80.18,23.8,tidak
+2706,Perempuan,61,tidak,tidak,sudah,swasta,Perkotaan,220.41,34.2,mantan perokok
+2707,Laki-laki,52,ya,tidak,sudah,Wirausaha,Perkotaan,88.02,26.6,mantan perokok
+2708,Laki-laki,70,tidak,tidak,sudah,swasta,Pedesaan,215.54,38.0,perokok aktif
+2709,Laki-laki,74,ya,tidak,sudah,Wirausaha,Perkotaan,231.61,34.6,tidak
+2710,Laki-laki,75,ya,tidak,sudah,Wirausaha,Pedesaan,78.8,29.3,tidak
+2711,Laki-laki,38,tidak,tidak,belum,swasta,Pedesaan,112.97,35.4,tidak
+2712,Laki-laki,19,tidak,tidak,belum,swasta,Perkotaan,62.8,24.1,perokok aktif
+2713,Laki-laki,71,tidak,tidak,sudah,swasta,Perkotaan,113.49,26.9,tidak
+2714,Perempuan,39,tidak,tidak,sudah,swasta,Perkotaan,72.21,24.9,tidak
+2715,Perempuan,50,tidak,tidak,belum,swasta,Pedesaan,88.61,25.3,perokok aktif
+2716,Laki-laki,12,tidak,tidak,belum,swasta,Perkotaan,84.88,21.8,perokok aktif
+2717,Perempuan,78,ya,ya,sudah,swasta,Pedesaan,235.63,32.3,tidak
+2718,Perempuan,23,ya,tidak,sudah,Wirausaha,Perkotaan,64.96,21.4,mantan perokok
+2719,Perempuan,81,tidak,tidak,sudah,swasta,Pedesaan,186.21,29.0,perokok aktif
+2720,Laki-laki,53,tidak,tidak,belum,swasta,Pedesaan,81.61,33.1,tidak
+2721,Laki-laki,80,tidak,tidak,sudah,swasta,Perkotaan,236.97,33.6,mantan perokok
+2722,Laki-laki,14,tidak,ya,sudah,Wirausaha,Perkotaan,101.48,34.9,tidak
+2723,Perempuan,52,ya,ya,belum,Wirausaha,Pedesaan,69.75,24.6,tidak
+2724,Perempuan,60,tidak,tidak,sudah,Wirausaha,Pedesaan,242.24,29.3,perokok aktif
+2725,Perempuan,57,tidak,tidak,sudah,swasta,Perkotaan,73.4,24.2,tidak
+2726,Perempuan,55,tidak,tidak,belum,swasta,Perkotaan,80.32,27.7,perokok aktif
+2727,Laki-laki,27,tidak,tidak,sudah,swasta,Perkotaan,135.24,23.8,tidak
+2728,Laki-laki,13,tidak,tidak,sudah,Wirausaha,Perkotaan,71.82,31.3,tidak
+2729,Perempuan,72,tidak,tidak,sudah,swasta,Perkotaan,131.41,28.4,tidak
+2730,Perempuan,42,tidak,tidak,belum,swasta,Pedesaan,75.43,24.7,tidak
+2731,Perempuan,56,tidak,tidak,sudah,PNS,Pedesaan,84.9,26.2,tidak
+2732,Perempuan,33,ya,tidak,sudah,Wirausaha,Pedesaan,80.52,30.7,mantan perokok
+2733,Perempuan,44,tidak,tidak,sudah,swasta,Pedesaan,88.82,41.2,tidak
+2734,Perempuan,79,tidak,tidak,sudah,swasta,Pedesaan,67.21,32.8,tidak
+2735,Laki-laki,77,ya,tidak,belum,swasta,Perkotaan,90.68,25.8,perokok aktif
+2736,Perempuan,27,tidak,ya,sudah,Wirausaha,Pedesaan,85.99,34.5,mantan perokok
+2737,Laki-laki,61,ya,ya,sudah,Wirausaha,Perkotaan,65.4,34.9,tidak
+2738,Perempuan,42,tidak,tidak,sudah,PNS,Pedesaan,85.12,42.3,tidak
+2739,Laki-laki,54,tidak,tidak,sudah,swasta,Pedesaan,98.83,26.0,mantan perokok
+2740,Laki-laki,59,tidak,tidak,belum,swasta,Pedesaan,69.24,33.9,tidak
+2741,Perempuan,65,tidak,tidak,sudah,swasta,Pedesaan,108.46,34.5,tidak
+2742,Perempuan,41,tidak,tidak,sudah,swasta,Pedesaan,66.92,31.0,tidak
+2743,Laki-laki,21,tidak,tidak,sudah,swasta,Pedesaan,95.58,28.8,tidak
+2744,Laki-laki,31,tidak,ya,sudah,swasta,Pedesaan,78.76,24.5,perokok aktif
+2745,Laki-laki,28,tidak,tidak,sudah,PNS,Perkotaan,140.53,34.0,tidak
+2746,Laki-laki,66,tidak,tidak,belum,PNS,Pedesaan,92.61,21.7,perokok aktif
+2747,Laki-laki,57,tidak,tidak,sudah,swasta,Pedesaan,93.58,25.4,tidak
+2748,Perempuan,75,tidak,tidak,sudah,swasta,Pedesaan,203.79,41.6,tidak
+2749,Perempuan,61,tidak,tidak,sudah,Wirausaha,Pedesaan,92.21,29.3,mantan perokok
+2750,Perempuan,64,tidak,tidak,sudah,swasta,Pedesaan,98.52,33.8,mantan perokok
+2751,Perempuan,66,tidak,tidak,belum,swasta,Perkotaan,69.08,33.6,tidak
+2752,Perempuan,81,ya,ya,sudah,swasta,Perkotaan,216.1,32.0,mantan perokok
+2753,Laki-laki,45,tidak,ya,sudah,Wirausaha,Perkotaan,82.83,20.3,perokok aktif
+2754,Laki-laki,64,tidak,tidak,sudah,swasta,Perkotaan,82.36,28.2,tidak
+2755,Perempuan,47,tidak,tidak,sudah,swasta,Pedesaan,64.09,25.4,tidak
+2756,Perempuan,65,tidak,tidak,sudah,swasta,Pedesaan,98.68,24.0,tidak
+2757,Perempuan,38,tidak,tidak,belum,swasta,Perkotaan,91.31,27.5,tidak
+2758,Perempuan,65,tidak,tidak,belum,Wirausaha,Perkotaan,78.12,22.0,mantan perokok
+2759,Laki-laki,37,ya,tidak,sudah,Wirausaha,Pedesaan,77.16,36.5,perokok aktif
+2760,Perempuan,32,tidak,tidak,sudah,swasta,Pedesaan,143.66,37.1,mantan perokok
+2761,Perempuan,70,ya,tidak,sudah,swasta,Pedesaan,69.05,31.5,perokok aktif
+2762,Laki-laki,48,tidak,tidak,belum,swasta,Perkotaan,88.75,29.1,perokok aktif
+2763,Perempuan,43,tidak,tidak,sudah,swasta,Perkotaan,70.77,32.9,tidak
+2764,Perempuan,12,ya,tidak,sudah,Wirausaha,Perkotaan,109.35,30.6,tidak
+2765,Laki-laki,47,tidak,tidak,sudah,PNS,Perkotaan,141.41,24.8,tidak
+2766,Laki-laki,70,tidak,tidak,sudah,swasta,Pedesaan,63.74,26.2,perokok aktif
+2767,Perempuan,25,tidak,tidak,sudah,Wirausaha,Perkotaan,67.42,37.2,tidak
+2768,Perempuan,78,tidak,tidak,belum,Wirausaha,Perkotaan,215.34,32.6,tidak
+2769,Laki-laki,36,tidak,ya,sudah,PNS,Pedesaan,164.19,29.2,tidak
+2770,Perempuan,75,ya,ya,belum,swasta,Pedesaan,92.84,24.6,mantan perokok
+2771,Perempuan,50,tidak,tidak,sudah,swasta,Pedesaan,79.27,32.5,tidak
+2772,Laki-laki,79,tidak,tidak,sudah,swasta,Perkotaan,103.88,39.9,tidak
+2773,Laki-laki,44,tidak,tidak,sudah,Wirausaha,Perkotaan,90.67,23.1,mantan perokok
+2774,Perempuan,35,ya,tidak,sudah,Wirausaha,Pedesaan,101.81,39.7,tidak
+2775,Laki-laki,34,tidak,ya,sudah,swasta,Pedesaan,93.01,25.1,tidak
+2776,Laki-laki,60,tidak,tidak,sudah,PNS,Perkotaan,128.96,25.7,mantan perokok
+2777,Laki-laki,53,tidak,tidak,sudah,PNS,Perkotaan,80.08,23.2,mantan perokok
+2778,Laki-laki,34,ya,ya,sudah,swasta,Perkotaan,73.47,31.5,perokok aktif
+2779,Perempuan,42,tidak,tidak,belum,swasta,Perkotaan,105.3,37.6,mantan perokok
+2780,Perempuan,25,ya,tidak,sudah,PNS,Pedesaan,155.36,23.9,tidak
+2781,Perempuan,73,tidak,tidak,sudah,Wirausaha,Pedesaan,70.94,34.4,tidak
+2782,Perempuan,17,tidak,tidak,belum,Wirausaha,Perkotaan,103.2,23.4,tidak
+2783,Perempuan,54,tidak,tidak,sudah,swasta,Pedesaan,88.15,33.5,tidak
+2784,Perempuan,64,tidak,tidak,sudah,swasta,Perkotaan,77.54,28.6,tidak
+2785,Perempuan,51,tidak,tidak,sudah,swasta,Pedesaan,75.19,25.7,mantan perokok
+2786,Laki-laki,34,tidak,tidak,belum,swasta,Pedesaan,139.97,46.6,tidak
+2787,Perempuan,37,tidak,tidak,sudah,swasta,Perkotaan,86.18,26.6,mantan perokok
+2788,Perempuan,60,tidak,tidak,sudah,Wirausaha,Perkotaan,79.94,28.9,perokok aktif
+2789,Laki-laki,58,ya,tidak,sudah,swasta,Perkotaan,80.05,28.3,perokok aktif
+2790,Perempuan,55,tidak,tidak,belum,swasta,Pedesaan,84.67,41.1,tidak
+2791,Perempuan,57,ya,tidak,sudah,swasta,Perkotaan,82.8,30.1,tidak
+2792,Perempuan,51,tidak,tidak,sudah,PNS,Pedesaan,101.61,39.4,tidak
+2793,Perempuan,46,tidak,tidak,sudah,swasta,Perkotaan,77.07,37.4,tidak
+2794,Perempuan,63,tidak,ya,sudah,Wirausaha,Perkotaan,81.77,41.7,tidak
+2795,Perempuan,58,tidak,tidak,sudah,swasta,Perkotaan,80.34,25.5,tidak
+2796,Perempuan,80,tidak,tidak,belum,Wirausaha,Pedesaan,88.3,27.8,tidak
+2797,Laki-laki,55,tidak,tidak,sudah,Wirausaha,Pedesaan,84.89,34.4,mantan perokok
+2798,Laki-laki,70,tidak,tidak,sudah,swasta,Pedesaan,110.18,37.9,tidak
+2799,Laki-laki,44,tidak,ya,sudah,swasta,Perkotaan,84.77,30.8,perokok aktif
+2800,Perempuan,15,tidak,tidak,sudah,Wirausaha,Perkotaan,86.21,26.8,tidak
+2801,Laki-laki,79,tidak,tidak,sudah,Wirausaha,Perkotaan,232.75,18.0,perokok aktif
+2802,Perempuan,68,tidak,tidak,sudah,swasta,Pedesaan,219.14,46.2,tidak
+2803,Perempuan,79,ya,tidak,sudah,PNS,Pedesaan,226.98,29.8,tidak
+2804,Perempuan,72,tidak,tidak,sudah,swasta,Perkotaan,128.47,23.4,perokok aktif
+2805,Laki-laki,79,tidak,tidak,sudah,Wirausaha,Perkotaan,196.61,22.8,tidak
+2806,Laki-laki,80,tidak,tidak,sudah,swasta,Perkotaan,234.23,31.0,tidak
+2807,Perempuan,24,tidak,tidak,sudah,swasta,Perkotaan,118.82,22.2,tidak
+2808,Perempuan,47,ya,tidak,sudah,PNS,Perkotaan,145.02,37.3,mantan perokok
+2809,Perempuan,60,ya,tidak,sudah,PNS,Pedesaan,213.91,39.8,mantan perokok
+2810,Perempuan,52,ya,tidak,sudah,swasta,Pedesaan,197.52,37.0,perokok aktif
+2811,Perempuan,30,tidak,tidak,sudah,swasta,Pedesaan,104.49,47.3,tidak
+2812,Laki-laki,67,tidak,tidak,sudah,PNS,Perkotaan,63.72,31.9,mantan perokok
+2813,Perempuan,50,tidak,tidak,sudah,PNS,Perkotaan,94.81,37.5,perokok aktif
+2814,Laki-laki,82,ya,tidak,sudah,Wirausaha,Pedesaan,196.92,22.2,tidak
+2815,Perempuan,58,tidak,tidak,belum,Wirausaha,Pedesaan,121.85,18.2,perokok aktif
+2816,Perempuan,61,tidak,tidak,belum,swasta,Pedesaan,99.99,35.7,mantan perokok
+2817,Laki-laki,26,tidak,tidak,sudah,swasta,Perkotaan,121.42,32.2,mantan perokok
+2818,Laki-laki,52,tidak,tidak,sudah,Wirausaha,Pedesaan,139.97,37.2,perokok aktif
+2819,Laki-laki,47,tidak,tidak,sudah,swasta,Perkotaan,81.18,27.2,perokok aktif
+2820,Perempuan,47,ya,tidak,sudah,swasta,Pedesaan,164.47,33.2,mantan perokok
+2821,Laki-laki,56,tidak,tidak,sudah,swasta,Perkotaan,113.26,25.9,mantan perokok
+2822,Laki-laki,24,tidak,tidak,sudah,swasta,Perkotaan,76.36,26.7,mantan perokok
+2823,Perempuan,59,tidak,tidak,sudah,Wirausaha,Perkotaan,92.91,26.6,tidak
+2824,Laki-laki,63,tidak,tidak,sudah,swasta,Pedesaan,91.7,38.1,perokok aktif
+2825,Laki-laki,42,tidak,tidak,sudah,swasta,Pedesaan,79.65,21.1,tidak
+2826,Laki-laki,78,ya,tidak,sudah,swasta,Perkotaan,65.35,22.1,tidak
+2827,Perempuan,42,tidak,tidak,sudah,swasta,Pedesaan,96.56,41.8,mantan perokok
+2828,Laki-laki,47,tidak,tidak,sudah,swasta,Pedesaan,228.8,31.8,tidak
+2829,Laki-laki,47,tidak,tidak,sudah,swasta,Pedesaan,64.74,41.2,tidak
+2830,Perempuan,78,tidak,tidak,belum,PNS,Pedesaan,79.38,20.2,tidak
+2831,Perempuan,63,tidak,tidak,sudah,swasta,Perkotaan,127.37,26.6,mantan perokok
+2832,Perempuan,48,tidak,tidak,sudah,PNS,Pedesaan,147.84,24.1,mantan perokok
+2833,Perempuan,70,tidak,tidak,sudah,PNS,Pedesaan,188.67,27.7,tidak
+2834,Laki-laki,60,tidak,tidak,sudah,Wirausaha,Perkotaan,213.03,20.2,tidak
+2835,Laki-laki,16,tidak,tidak,sudah,swasta,Pedesaan,80.15,32.2,tidak
+2836,Perempuan,25,tidak,tidak,sudah,Wirausaha,Pedesaan,86.89,20.4,tidak
+2837,Perempuan,36,tidak,tidak,belum,swasta,Pedesaan,100.13,21.8,mantan perokok
+2838,Perempuan,66,ya,tidak,sudah,swasta,Perkotaan,202.05,43.3,tidak
+2839,Perempuan,63,tidak,tidak,sudah,swasta,Perkotaan,178.79,30.3,perokok aktif
+2840,Laki-laki,35,tidak,tidak,belum,Wirausaha,Perkotaan,82.71,29.6,mantan perokok
+2841,Perempuan,30,tidak,tidak,sudah,PNS,Pedesaan,79.11,21.1,tidak
+2842,Perempuan,40,tidak,tidak,sudah,swasta,Perkotaan,99.71,24.5,mantan perokok
+2843,Perempuan,37,tidak,tidak,sudah,swasta,Perkotaan,109.28,55.2,mantan perokok
+2844,Perempuan,64,tidak,tidak,sudah,swasta,Pedesaan,83.81,45.0,tidak
+2845,Perempuan,37,ya,tidak,sudah,Wirausaha,Perkotaan,92.14,52.2,mantan perokok
+2846,Perempuan,73,tidak,tidak,sudah,swasta,Perkotaan,234.9,30.6,mantan perokok
+2847,Perempuan,45,tidak,tidak,sudah,Wirausaha,Pedesaan,68.3,25.6,perokok aktif
+2848,Perempuan,27,tidak,tidak,sudah,swasta,Perkotaan,74.52,26.9,mantan perokok
+2849,Perempuan,48,tidak,tidak,sudah,PNS,Pedesaan,109.1,22.0,mantan perokok
+2850,Laki-laki,67,tidak,tidak,sudah,swasta,Pedesaan,228.69,36.6,tidak
+2851,Perempuan,40,tidak,tidak,sudah,swasta,Perkotaan,77.03,27.4,tidak
+2852,Laki-laki,23,tidak,tidak,belum,swasta,Pedesaan,72.2,22.5,tidak
+2853,Perempuan,59,tidak,tidak,sudah,Wirausaha,Perkotaan,83.19,25.2,tidak
+2854,Perempuan,60,tidak,tidak,sudah,swasta,Perkotaan,103.15,25.6,mantan perokok
+2855,Laki-laki,74,tidak,tidak,belum,PNS,Perkotaan,95.57,23.1,tidak
+2856,Perempuan,71,tidak,ya,sudah,Wirausaha,Perkotaan,195.71,34.1,tidak
+2857,Laki-laki,52,tidak,ya,sudah,PNS,Pedesaan,65.51,24.7,perokok aktif
+2858,Laki-laki,35,tidak,tidak,sudah,Wirausaha,Pedesaan,73.81,18.5,mantan perokok
+2859,Laki-laki,44,tidak,tidak,sudah,swasta,Perkotaan,77.65,42.0,mantan perokok
+2860,Laki-laki,44,tidak,tidak,sudah,Wirausaha,Pedesaan,74.69,39.2,tidak
+2861,Laki-laki,51,tidak,tidak,sudah,swasta,Perkotaan,94.54,24.4,tidak
+2862,Perempuan,56,tidak,tidak,sudah,swasta,Pedesaan,73.63,32.2,tidak
+2863,Perempuan,60,ya,tidak,belum,swasta,Pedesaan,200.2,23.4,perokok aktif
+2864,Perempuan,73,ya,ya,sudah,Wirausaha,Perkotaan,220.72,20.3,tidak
+2865,Laki-laki,80,tidak,tidak,sudah,swasta,Perkotaan,72.67,28.9,mantan perokok
+2866,Laki-laki,58,tidak,tidak,belum,Wirausaha,Perkotaan,87.08,32.1,perokok aktif
+2867,Laki-laki,72,ya,tidak,sudah,Wirausaha,Perkotaan,135.23,36.0,mantan perokok
+2868,Perempuan,18,tidak,tidak,sudah,swasta,Perkotaan,78.58,21.2,tidak
+2869,Laki-laki,64,ya,tidak,sudah,PNS,Pedesaan,99.88,29.2,tidak
+2870,Laki-laki,37,tidak,tidak,sudah,swasta,Pedesaan,170.11,32.7,mantan perokok
+2871,Laki-laki,14,tidak,ya,sudah,swasta,Pedesaan,174.93,21.4,mantan perokok
+2872,Perempuan,79,ya,ya,sudah,PNS,Pedesaan,78.9,29.4,perokok aktif
+2873,Laki-laki,71,tidak,tidak,sudah,Wirausaha,Pedesaan,84.69,28.1,mantan perokok
+2874,Perempuan,79,tidak,tidak,sudah,swasta,Perkotaan,103.54,25.8,perokok aktif
+2875,Perempuan,78,tidak,ya,sudah,swasta,Perkotaan,212.62,26.5,tidak
+2876,Perempuan,51,tidak,tidak,sudah,Wirausaha,Pedesaan,93.42,31.5,mantan perokok
+2877,Laki-laki,50,tidak,ya,sudah,Wirausaha,Perkotaan,86.45,33.0,mantan perokok
+2878,Laki-laki,62,tidak,tidak,belum,swasta,Perkotaan,58.24,24.0,mantan perokok
+2879,Laki-laki,75,tidak,tidak,sudah,PNS,Perkotaan,84.64,22.2,tidak
+2880,Perempuan,19,tidak,ya,sudah,swasta,Pedesaan,89.84,23.5,tidak
+2881,Laki-laki,77,ya,tidak,sudah,Wirausaha,Pedesaan,91.57,28.8,tidak
+2882,Laki-laki,40,tidak,tidak,sudah,PNS,Pedesaan,87.88,30.6,mantan perokok
+2883,Perempuan,37,tidak,tidak,sudah,swasta,Pedesaan,82.15,24.3,tidak
+2884,Perempuan,15,tidak,tidak,sudah,Wirausaha,Pedesaan,88.65,19.1,tidak
+2885,Perempuan,37,tidak,tidak,sudah,PNS,Perkotaan,60.41,39.4,mantan perokok
+2886,Perempuan,51,ya,ya,sudah,swasta,Perkotaan,82.52,26.0,mantan perokok
+2887,Perempuan,51,tidak,tidak,sudah,swasta,Pedesaan,74.52,29.6,mantan perokok
+2888,Perempuan,43,tidak,tidak,sudah,Wirausaha,Pedesaan,65.66,32.9,tidak
+2889,Perempuan,66,tidak,tidak,sudah,PNS,Perkotaan,82.2,34.7,tidak
+2890,Laki-laki,24,tidak,tidak,sudah,swasta,Pedesaan,101.32,23.7,perokok aktif
+2891,Laki-laki,34,tidak,tidak,sudah,swasta,Perkotaan,72.89,35.1,tidak
+2892,Perempuan,48,tidak,tidak,sudah,swasta,Perkotaan,108.24,35.8,perokok aktif
+2893,Laki-laki,82,tidak,ya,sudah,swasta,Pedesaan,86.62,29.5,mantan perokok
+2894,Perempuan,33,tidak,tidak,sudah,swasta,Perkotaan,62.48,34.8,mantan perokok
+2895,Perempuan,81,tidak,tidak,sudah,swasta,Pedesaan,65.82,23.9,tidak
+2896,Laki-laki,28,ya,ya,belum,Wirausaha,Perkotaan,107.64,34.7,mantan perokok
+2897,Perempuan,17,tidak,tidak,sudah,swasta,Perkotaan,93.5,31.8,mantan perokok
+2898,Perempuan,63,tidak,tidak,sudah,swasta,Perkotaan,229.87,30.7,tidak
+2899,Laki-laki,44,tidak,tidak,belum,swasta,Pedesaan,76.24,22.4,perokok aktif
+2900,Laki-laki,45,tidak,tidak,sudah,PNS,Perkotaan,95.86,32.5,tidak
+2901,Perempuan,44,ya,tidak,sudah,Wirausaha,Perkotaan,89.89,17.1,mantan perokok
+2902,Perempuan,40,tidak,tidak,sudah,Wirausaha,Pedesaan,122.11,26.7,tidak
+2903,Perempuan,42,tidak,tidak,sudah,Wirausaha,Perkotaan,93.23,33.0,perokok aktif
+2904,Laki-laki,32,tidak,tidak,sudah,swasta,Pedesaan,84.11,27.8,mantan perokok
+2905,Perempuan,70,tidak,tidak,sudah,swasta,Pedesaan,105.05,36.7,tidak
+2906,Perempuan,59,tidak,ya,sudah,Wirausaha,Pedesaan,199.07,52.4,mantan perokok
+2907,Laki-laki,69,tidak,tidak,belum,swasta,Perkotaan,161.1,28.4,tidak
+2908,Perempuan,78,ya,tidak,belum,Wirausaha,Pedesaan,99.99,25.0,mantan perokok
+2909,Laki-laki,22,tidak,ya,sudah,swasta,Perkotaan,97.85,32.7,mantan perokok
+2910,Perempuan,11,tidak,tidak,sudah,swasta,Pedesaan,80.12,32.3,mantan perokok
+2911,Perempuan,20,tidak,tidak,sudah,swasta,Pedesaan,68.36,25.7,perokok aktif
+2912,Laki-laki,81,tidak,tidak,sudah,swasta,Perkotaan,78.47,27.2,tidak
+2913,Perempuan,46,tidak,tidak,belum,swasta,Pedesaan,79.6,25.6,tidak
+2914,Laki-laki,53,tidak,tidak,sudah,Wirausaha,Pedesaan,66.57,28.4,tidak
+2915,Perempuan,60,tidak,tidak,sudah,PNS,Pedesaan,88.63,22.3,tidak
+2916,Perempuan,75,tidak,tidak,sudah,PNS,Perkotaan,94.39,24.7,perokok aktif
+2917,Perempuan,82,tidak,tidak,sudah,swasta,Pedesaan,238.16,41.0,tidak
+2918,Laki-laki,14,tidak,ya,sudah,Wirausaha,Perkotaan,83.72,34.8,mantan perokok
+2919,Perempuan,59,tidak,tidak,sudah,swasta,Perkotaan,94.69,24.3,mantan perokok
+2920,Perempuan,69,tidak,tidak,belum,swasta,Perkotaan,93.84,38.7,tidak
+2921,Laki-laki,54,tidak,tidak,sudah,PNS,Perkotaan,75.42,27.1,mantan perokok
+2922,Perempuan,14,tidak,tidak,sudah,Wirausaha,Perkotaan,118.61,23.3,tidak
+2923,Perempuan,81,tidak,tidak,sudah,Wirausaha,Perkotaan,72.43,22.6,tidak
+2924,Perempuan,64,ya,ya,sudah,Wirausaha,Pedesaan,83.21,29.9,perokok aktif
+2925,Laki-laki,45,tidak,tidak,sudah,swasta,Pedesaan,66.45,27.6,perokok aktif
+2926,Perempuan,59,tidak,tidak,belum,PNS,Perkotaan,67.15,20.1,mantan perokok
+2927,Perempuan,68,ya,tidak,sudah,swasta,Perkotaan,98.47,37.1,mantan perokok
+2928,Laki-laki,57,tidak,tidak,sudah,swasta,Perkotaan,80.08,24.8,perokok aktif
+2929,Perempuan,28,ya,tidak,belum,Wirausaha,Perkotaan,87.33,32.0,perokok aktif
+2930,Laki-laki,32,tidak,ya,sudah,Wirausaha,Perkotaan,69.83,22.0,perokok aktif
+2931,Perempuan,45,tidak,tidak,sudah,PNS,Pedesaan,63.08,32.0,tidak
+2932,Laki-laki,78,tidak,tidak,sudah,swasta,Perkotaan,208.47,22.8,perokok aktif
+2933,Perempuan,65,ya,ya,sudah,swasta,Perkotaan,100.98,28.2,perokok aktif
+2934,Laki-laki,66,tidak,tidak,sudah,Wirausaha,Pedesaan,225.18,38.9,mantan perokok
+2935,Perempuan,69,ya,tidak,belum,Wirausaha,Perkotaan,82.81,28.0,tidak
+2936,Perempuan,60,tidak,tidak,belum,swasta,Perkotaan,101.63,30.9,tidak
+2937,Perempuan,54,tidak,tidak,sudah,swasta,Pedesaan,70.12,28.2,tidak
+2938,Perempuan,33,tidak,tidak,sudah,swasta,Perkotaan,220.27,40.4,mantan perokok
+2939,Perempuan,73,tidak,tidak,sudah,Wirausaha,Perkotaan,231.41,26.4,tidak
+2940,Perempuan,80,tidak,ya,sudah,swasta,Pedesaan,204.38,38.9,perokok aktif
+2941,Perempuan,44,tidak,tidak,sudah,swasta,Perkotaan,183.49,30.5,tidak
+2942,Perempuan,23,tidak,tidak,sudah,Wirausaha,Pedesaan,102.11,24.8,mantan perokok
+2943,Perempuan,63,tidak,tidak,sudah,PNS,Pedesaan,88.31,40.7,tidak
+2944,Laki-laki,78,tidak,tidak,sudah,Wirausaha,Perkotaan,75.34,26.8,tidak
+2945,Perempuan,80,tidak,tidak,sudah,Wirausaha,Pedesaan,259.63,31.7,tidak
+2946,Perempuan,60,tidak,tidak,belum,swasta,Perkotaan,103.89,35.9,perokok aktif
+2947,Perempuan,56,tidak,tidak,sudah,swasta,Pedesaan,88.33,31.2,tidak
+2948,Perempuan,11,tidak,tidak,sudah,Wirausaha,Pedesaan,78.83,20.5,tidak
+2949,Perempuan,39,ya,tidak,sudah,swasta,Pedesaan,94.42,22.6,mantan perokok
+2950,Laki-laki,17,tidak,tidak,sudah,Wirausaha,Perkotaan,144.71,21.1,mantan perokok
+2951,Laki-laki,49,tidak,tidak,sudah,Wirausaha,Pedesaan,58.09,20.6,perokok aktif
+2952,Laki-laki,67,tidak,tidak,sudah,swasta,Pedesaan,94.62,27.7,tidak
+2953,Laki-laki,55,ya,ya,sudah,Wirausaha,Perkotaan,223.39,58.4,perokok aktif
+2954,Perempuan,58,tidak,tidak,sudah,swasta,Perkotaan,87.19,26.6,perokok aktif
+2955,Perempuan,13,tidak,tidak,sudah,swasta,Pedesaan,59.23,17.6,mantan perokok
+2956,Perempuan,56,tidak,tidak,belum,swasta,Pedesaan,82.84,28.6,tidak
+2957,Laki-laki,53,tidak,tidak,sudah,swasta,Perkotaan,193.87,41.3,perokok aktif
+2958,Perempuan,72,tidak,ya,sudah,Wirausaha,Pedesaan,86.06,30.5,mantan perokok
+2959,Perempuan,82,tidak,tidak,sudah,swasta,Perkotaan,75.01,41.0,perokok aktif
+2960,Laki-laki,39,tidak,tidak,sudah,swasta,Perkotaan,58.38,37.9,tidak
+2961,Laki-laki,29,tidak,ya,sudah,swasta,Pedesaan,99.42,31.3,mantan perokok
+2962,Laki-laki,41,tidak,tidak,sudah,swasta,Pedesaan,84.45,33.6,perokok aktif
+2963,Perempuan,50,ya,tidak,sudah,Wirausaha,Pedesaan,92.67,27.5,tidak
+2964,Perempuan,52,tidak,tidak,sudah,PNS,Pedesaan,68.35,25.9,mantan perokok
+2965,Perempuan,21,tidak,tidak,sudah,swasta,Pedesaan,110.54,21.3,tidak
+2966,Perempuan,48,tidak,tidak,sudah,PNS,Pedesaan,70.29,23.7,tidak
+2967,Laki-laki,65,tidak,tidak,belum,swasta,Pedesaan,87.83,40.9,tidak
+2968,Laki-laki,50,tidak,tidak,sudah,swasta,Perkotaan,102.16,31.4,mantan perokok
+2969,Perempuan,82,tidak,tidak,belum,swasta,Pedesaan,59.32,33.2,tidak
+2970,Laki-laki,18,ya,tidak,sudah,swasta,Perkotaan,104.28,18.1,perokok aktif
+2971,Laki-laki,29,tidak,tidak,belum,swasta,Pedesaan,127.97,31.5,mantan perokok
+2972,Perempuan,50,tidak,tidak,sudah,swasta,Pedesaan,104.66,25.3,tidak
+2973,Laki-laki,69,tidak,tidak,sudah,swasta,Perkotaan,93.57,25.9,mantan perokok
+2974,Perempuan,77,tidak,tidak,belum,swasta,Perkotaan,237.12,37.4,tidak
+2975,Perempuan,62,tidak,tidak,belum,swasta,Perkotaan,113.98,37.7,tidak
+2976,Perempuan,15,tidak,tidak,sudah,swasta,Pedesaan,84.18,18.1,mantan perokok
+2977,Perempuan,82,tidak,tidak,sudah,swasta,Pedesaan,81.51,22.3,tidak
+2978,Laki-laki,51,tidak,tidak,belum,belum bekerja,Perkotaan,109.59,49.1,tidak
+2979,Perempuan,28,ya,tidak,sudah,swasta,Perkotaan,103.92,19.0,tidak
+2980,Perempuan,46,tidak,tidak,sudah,PNS,Pedesaan,66.21,27.1,tidak
+2981,Perempuan,29,tidak,tidak,belum,swasta,Perkotaan,57.32,39.0,mantan perokok
+2982,Perempuan,72,tidak,tidak,sudah,swasta,Perkotaan,77.42,27.3,tidak
+2983,Perempuan,59,tidak,ya,sudah,PNS,Pedesaan,72.37,29.0,perokok aktif
+2984,Perempuan,52,tidak,tidak,sudah,PNS,Perkotaan,95.19,34.3,tidak
+2985,Perempuan,63,ya,tidak,sudah,swasta,Pedesaan,64.43,29.7,tidak
+2986,Perempuan,82,tidak,tidak,sudah,swasta,Pedesaan,60.22,19.5,tidak
+2987,Laki-laki,34,tidak,tidak,sudah,swasta,Perkotaan,56.41,25.2,perokok aktif
+2988,Laki-laki,20,tidak,tidak,belum,swasta,Pedesaan,102.11,27.1,tidak
+2989,Perempuan,74,tidak,tidak,belum,swasta,Perkotaan,155.57,31.4,tidak
